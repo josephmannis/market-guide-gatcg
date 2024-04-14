@@ -2,8 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" />
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link href="{{ Vite::asset('src/assets/fonts/linux-biolinum-g.woff') }}" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Fraysia – Grand Archive Market Information" />
+    <meta property="og:site_name" content="Fraysia" />
+    <meta property="og:url" content="https:www.stocks.fraysia.app" />
+    <meta
+            property="og:description"
+            content="Market information for the Grand Archive TCG"
+    />
+    <meta property="og:type" content="product" />
+    <meta property="og:image" content="https://fraysia.s3.amazonaws.com/fraysia-market-og.png" />
+
     <title>Market Guide</title>
   </head>
   <body>
