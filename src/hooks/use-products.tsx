@@ -7,8 +7,10 @@ export type Rarity =
   | 'Rare'
   | 'Super Rare'
   | 'Ultra Rare'
+  | 'Collector Super Rare'
   | 'Collector Ultra Rare'
-  | 'Promotional Rare';
+  | 'Promo'
+  | 'Collector Promo';
 
 export type PriceRange = {
   highPrice?: number;
@@ -51,8 +53,8 @@ function isCard(name: string): boolean {
   return !isPack(name) && !isBox(name) && !isExcluded(name);
 }
 
-export function useProducts({ setId, page, filter }: { setId?: string; page: number; filter?: string }) {
-  const allProducts = setId ? (cardMap as Record<string, ProductT[]>)[setId] ?? [] : [];
+export function useProducts({ setId, filter }: { setId?: string; filter?: string }) {
+  const allProducts = setId ? (cardMap as unknown as Record<string, ProductT[]>)[setId] ?? [] : [];
   const cards: CardT[] = allProducts.filter((p) => isCard(p.name));
   const boxes: BoxT[] = allProducts.filter((p) => isBox(p.name));
   const packs: BoxT[] = allProducts.filter((p) => isPack(p.name));

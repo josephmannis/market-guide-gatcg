@@ -22,15 +22,14 @@ export function Products() {
   const { groups } = useProductGroups();
   const [filter, setFilter] = useState('');
   const [selectedGroup, setSelected] = useState<string | undefined>(groups[0]?.id);
-  const { cards, box, pack, totalCards } = useProducts({ setId: selectedGroup, filter, page: 0 });
-  const cardsToShow = cards.slice(0, 50);
+  const { cards, box, pack, totalCards } = useProducts({ setId: selectedGroup, filter });
 
   return (
     <HStack width="80%" alignItems="flex-start">
       <VStack w="100%" alignItems="flex-start">
         <Heading size="sm">{totalCards} cards</Heading>
         <Grid templateColumns="repeat(4, 1fr)" gap={6} w="100%">
-          {cardsToShow.map((c) => {
+          {cards.map((c) => {
             return (
               <GridItem key={c.name}>
                 <Card card={c} />
@@ -62,7 +61,7 @@ export function Products() {
           Stats
         </Heading>
 
-        <AverageCardPrices />
+        <AverageCardPrices cards={cards} />
 
         <VStack
           w="100%"
