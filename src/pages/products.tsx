@@ -53,7 +53,7 @@ export function Products() {
           </Grid>
         </VStack>
 
-        <VStack w={{ base: '100%', md: '300px' }} alignItems="flex-start">
+        <VStack w={{ base: '100%', md: 'min(400px , 30%)' }} alignItems="flex-start">
           <Heading size="sm">Product</Heading>
           <Select value={selectedGroup} mb={3} onChange={(e) => setSelected(e.target.value)}>
             {groups.map((g) => (
