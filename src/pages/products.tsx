@@ -28,26 +28,7 @@ export function Products() {
   return (
     <HStack width="80%" alignItems="flex-start">
       <VStack w="100%" alignItems="flex-start">
-        <HStack w="100%" justifyContent="space-between">
-          <InputGroup w="40%">
-            <Input placeholder="Search for a card" value={filter} onChange={(e) => setFilter(e.target.value)} />
-            <InputRightElement>
-              <SearchIcon />
-            </InputRightElement>
-          </InputGroup>
-
-          <HStack>
-            <Select onChange={(e) => setSelected(e.target.value)} value={selectedGroup} placeholder="Select a Product">
-              {groups.map((g) => (
-                <option key={g.id} value={g.id}>
-                  {g.name}
-                </option>
-              ))}
-            </Select>
-          </HStack>
-        </HStack>
-
-        <Text>{totalCards} Cards</Text>
+        <Heading size="sm">{totalCards} cards</Heading>
         <Grid templateColumns="repeat(4, 1fr)" gap={6} w="100%">
           {cardsToShow.map((c) => {
             return (
@@ -58,8 +39,31 @@ export function Products() {
           })}
         </Grid>
       </VStack>
-      <VStack w="30%" alignItems="flex-start">
+
+      <VStack w="30%" alignItems="flex-start" position="sticky">
+        <Heading size="sm">Product</Heading>
+        <Select value={selectedGroup} mb={3} onChange={(e) => setSelected(e.target.value)}>
+          {groups.map((g) => (
+            <option key={g.id} value={g.id}>
+              {g.name}
+            </option>
+          ))}
+        </Select>
+
+        <Heading size="sm">Filter</Heading>
+        <InputGroup w="100%" mb={3}>
+          <Input placeholder="Search for a card" value={filter} onChange={(e) => setFilter(e.target.value)} />
+          <InputRightElement>
+            <SearchIcon />
+          </InputRightElement>
+        </InputGroup>
+
+        <Heading mb={1} size="sm">
+          Stats
+        </Heading>
+
         <AverageCardPrices />
+
         <VStack
           w="100%"
           border="1px"
