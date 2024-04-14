@@ -29,13 +29,14 @@ export function Products() {
   return (
     <VStack width="80%" alignItems="flex-start">
       <Heading size="lg">Market Guide</Heading>
-      <Text mb={3}>
-        Prices updated daily. Data lovingly sourced from{' '}
+      <Text>
+        Prices should update daily. Prices are TCGPlayer Market Price, or TCGPlayer Mid. Data lovingly sourced from{' '}
         <Link href="https://tcgcsv.com/" isExternal>
-          TCGCSV
+          tcgcsv.com
         </Link>
-        . Last updated: {lastUpdate.lastUpdate}
+        .
       </Text>
+      <Text mb={3}>Last updated: {lastUpdate.lastUpdate}</Text>
 
       <HStack w="100%" alignItems="flex-start">
         <VStack alignItems="flex-start">
