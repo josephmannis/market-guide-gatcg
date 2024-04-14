@@ -87,6 +87,7 @@ async function getCardsForGroup(groupId: string): Promise<ProductT[]> {
       name: result.cleanName,
       imageUrl: result.imageUrl,
       slug: '',
+      url: result.url,
     };
   });
 }

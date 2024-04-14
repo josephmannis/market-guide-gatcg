@@ -5,17 +5,20 @@ import { formatUsd } from '../utils/currency.ts';
 export function Card({ card }: { card: CardT }) {
   return (
     <VStack>
-      <Box
-        w={{ base: '300px', md: '200px' }}
-        h={{ base: '420px', md: '280px' }}
-        backgroundImage={card.imageUrl}
-        backgroundSize="contain"
-        borderRadius={{ base: '2xl', md: 'xl' }}
-        backgroundColor="gray"
-        mb={{ base: 4, md: 0 }}
-      >
-        <span role="img" aria-label={card.name} />
-      </Box>
+      <a href={card.url} target="_blank">
+        <Box
+          w={{ base: '300px', md: '200px' }}
+          h={{ base: '420px', md: '280px' }}
+          backgroundImage={card.imageUrl}
+          backgroundSize="contain"
+          borderRadius={{ base: '2xl', md: 'xl' }}
+          backgroundColor="gray"
+          mb={{ base: 4, md: 0 }}
+        >
+          <span role="img" aria-label={card.name} />
+        </Box>
+      </a>
+
       <Text textAlign="center" textTransform="capitalize">
         {card.name}
       </Text>

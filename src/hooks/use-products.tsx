@@ -27,6 +27,7 @@ export type CardT = {
   rarity?: Rarity;
   slug: string;
   imageUrl: string;
+  url?: string;
 };
 
 export type BoxT = {
