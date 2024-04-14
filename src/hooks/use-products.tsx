@@ -27,7 +27,7 @@ export type CardT = {
   rarity?: Rarity;
   slug: string;
   imageUrl: string;
-  url?: string;
+  tcgPlayerUrl?: string;
 };
 
 export type BoxT = {
