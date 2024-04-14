@@ -1,0 +1,5318 @@
+[
+  {
+    "slug": "spirit-of-fire-alc",
+    "name": "Spirit of Fire",
+    "indexUUID": "LMyKyVC2O9",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "lost-spirit-demo22",
+    "name": "Lost Spirit",
+    "indexUUID": "cFdWXaILRT",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "spirit-of-serene-fire-ftc",
+    "name": "Spirit of Serene Fire",
+    "indexUUID": "da2ha4dk88",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "scepter-of-lumina-prxy",
+    "name": "Scepter of Lumina",
+    "indexUUID": "e5o3cm9lbe",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "spirit-of-water-alc",
+    "name": "Spirit of Water",
+    "indexUUID": "tafqldAGRF",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "spirit-of-serene-water-ftc",
+    "name": "Spirit of Serene Water",
+    "indexUUID": "zq9ox7u6wz",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "stonescale-band-prxy",
+    "name": "Stonescale Band",
+    "indexUUID": "sphwpjsznn",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "spirit-of-wind-alc",
+    "name": "Spirit of Wind",
+    "indexUUID": "pNiyaGlIe7",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "spirit-of-serene-wind-ftc",
+    "name": "Spirit of Serene Wind",
+    "indexUUID": "h973fdt8pt",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "insignia-of-the-corhazi-prxy",
+    "name": "Insignia of the Corhazi",
+    "indexUUID": "52u81v4c0z",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "arisanna-herbalist-prodigy-alc",
+    "name": "Arisanna, Herbalist Prodigy",
+    "indexUUID": "b31x97n2jn",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "lorraine-wandering-warrior-doa-alter",
+    "name": "Lorraine, Wandering Warrior",
+    "indexUUID": "DpHDGaX2Pn",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "merlin-kingslayer-ftc",
+    "name": "Merlin, Kingslayer",
+    "indexUUID": "rz1bqry41l",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "arisanna-master-alchemist-alc",
+    "name": "Arisanna, Master Alchemist",
+    "indexUUID": "ltv5klryvf",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "lorraine-blademaster-doa-alter",
+    "name": "Lorraine, Blademaster",
+    "indexUUID": "TJTeWcZnsQ",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "lorraine-crux-knight-doap",
+    "name": "Lorraine, Crux Knight",
+    "indexUUID": "NfbZ0nouSQ",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "azure-protective-trinket-ftc",
+    "name": "Azure Protective Trinket",
+    "indexUUID": "m3pal7cpvn",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "zander-deft-executor-prxy",
+    "name": "Zander, Deft Executor",
+    "indexUUID": "fc4ic5fmaa",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "arisanna-astral-zenith-alc",
+    "name": "Arisanna, Astral Zenith",
+    "indexUUID": "q3huqj5bba",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "lorraine-spirit-ruler-doa-alter",
+    "name": "Lorraine, Spirit Ruler",
+    "indexUUID": "n2TKqNaODR",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "crimson-protective-trinket-ftc",
+    "name": "Crimson Protective Trinket",
+    "indexUUID": "96659ytyj2",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "arisanna-lucent-arbiter-alc",
+    "name": "Arisanna, Lucent Arbiter",
+    "indexUUID": "7e22tk3ir1",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "rai-spellcrafter-doa-alter",
+    "name": "Rai, Spellcrafter",
+    "indexUUID": "gPKTJKqvOI",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "quicksilver-grail-ftc",
+    "name": "Quicksilver Grail",
+    "indexUUID": "cxyky280mt",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "diana-keen-huntress-alc",
+    "name": "Diana, Keen Huntress",
+    "indexUUID": "e3z4pyx8bd",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "rai-archmage-doa-alter",
+    "name": "Rai, Archmage",
+    "indexUUID": "zdIhSL5RhK",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "rai-storm-seer-doap",
+    "name": "Rai, Storm Seer",
+    "indexUUID": "g92bHLtTNl",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "tariff-ring-ftc",
+    "name": "Tariff Ring",
+    "indexUUID": "xnrw8qq1uw",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "diana-deadly-duelist-alc",
+    "name": "Diana, Deadly Duelist",
+    "indexUUID": "7ozuj68m69",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "rai-mana-weaver-doa-alter",
+    "name": "Rai, Mana Weaver",
+    "indexUUID": "6ILtLfjQEe",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "silvie-loved-by-all-doap",
+    "name": "Silvie, Loved by All",
+    "indexUUID": "GKEpAulogu",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "tithe-proclamation-ftc",
+    "name": "Tithe Proclamation",
+    "indexUUID": "q8sdbzr5zs",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "aithne-spirit-of-fire-p23-houston",
+    "name": "Aithne, Spirit of Fire",
+    "indexUUID": "eb3ib5el99",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "diana-cursebreaker-alc",
+    "name": "Diana, Cursebreaker",
+    "indexUUID": "o0qtb31x97",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "silvie-wilds-whisperer-doa-alter",
+    "name": "Silvie, Wilds Whisperer",
+    "indexUUID": "RfPP8h16Wv",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "zander-blinding-steel-doap",
+    "name": "Zander, Blinding Steel",
+    "indexUUID": "UAF6Nr7GUE",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "viridian-protective-trinket-ftc",
+    "name": "Viridian Protective Trinket",
+    "indexUUID": "s3572j3oda",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "morrigan-lost-spirit-p23-houston",
+    "name": "Morrigan, Lost Spirit",
+    "indexUUID": "0rapy8v7x0",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "diana-duskstalker-alc",
+    "name": "Diana, Duskstalker",
+    "indexUUID": "iq4d5vettc",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "silvie-with-the-pack-doa-alter",
+    "name": "Silvie, With the Pack",
+    "indexUUID": "nllCALIXDT",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "beastsoul-visage-ftc",
+    "name": "Beastsoul Visage",
+    "indexUUID": "8asbierp5k",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "prismatic-spirit-p23",
+    "name": "Prismatic Spirit",
+    "indexUUID": "W3m0tnw4sr",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "tonoris-lone-mercenary-alc",
+    "name": "Tonoris, Lone Mercenary",
+    "indexUUID": "zb14m4c8lj",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "silvie-earths-tune-doa-alter",
+    "name": "Silvie, Earth's Tune",
+    "indexUUID": "ZR8tnLruR6",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "clarent-sword-of-peace-doap",
+    "name": "Clarent, Sword of Peace",
+    "indexUUID": "m31WVJ9F04",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "explosive-rune-ftc",
+    "name": "Explosive Rune",
+    "indexUUID": "1bqry41lw9",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "gate-of-alterity-p23",
+    "name": "Gate of Alterity",
+    "indexUUID": "j9s7xQdpf1",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "tonoris-might-of-humanity-alc",
+    "name": "Tonoris, Might of Humanity",
+    "indexUUID": "yevpmu6gvn",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "zander-prepared-scout-doa-alter",
+    "name": "Zander, Prepared Scout",
+    "indexUUID": "T3CIBknts0",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "blastshot-pump-alcsd",
+    "name": "Blastshot Pump",
+    "indexUUID": "gmnmp5af09",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "firetongue-ftc",
+    "name": "Firetongue",
+    "indexUUID": "j4lx6xwr42",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "tonoris-creations-will-alc",
+    "name": "Tonoris, Creation's Will",
+    "indexUUID": "n2jnltv5kl",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "zander-always-watching-doa-alter",
+    "name": "Zander, Always Watching",
+    "indexUUID": "tOK1Gr0N8f",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "bulwark-sword-alcsd",
+    "name": "Bulwark Sword",
+    "indexUUID": "8kmoi0a5uh",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "endura-scepter-of-ignition-doap",
+    "name": "Endura, Scepter of Ignition",
+    "indexUUID": "SGsDKB9CN5",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "varuckan-soulknife-ftc",
+    "name": "Varuckan Soulknife",
+    "indexUUID": "9ox7u6wzh9",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "tonoris-genesis-aegis-alc",
+    "name": "Tonoris, Genesis Aegis",
+    "indexUUID": "ta6qsesw2u",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "zander-corhazis-chosen-doa-alter",
+    "name": "Zander, Corhazi's Chosen",
+    "indexUUID": "gSNyXOQ4Iw",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "charged-manaplate-alcsd",
+    "name": "Charged Manaplate",
+    "indexUUID": "jxhkurfp66",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "arondight-azure-blade-ftc",
+    "name": "Arondight, Azure Blade",
+    "indexUUID": "29xxoo7dl5",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "gwendolyn-spirit-of-wind-ontario",
+    "name": "Gwendolyn, Spirit of Wind",
+    "indexUUID": "74wa4x7e22",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "allen-beast-beckoner-doa-alter",
+    "name": "Allen, Beast Beckoner",
+    "indexUUID": "YPaL2BxDSN",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "polkhawk-bombastic-shot-alc",
+    "name": "Polkhawk, Bombastic Shot",
+    "indexUUID": "ryvfq3huqj",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "cleric-robes-alcsd",
+    "name": "Cleric Robes",
+    "indexUUID": "pv4n1n3gyg",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "flute-of-taming-doap",
+    "name": "Flute of Taming",
+    "indexUUID": "y8fx8G64C9",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "cloak-of-stillwater-ftc",
+    "name": "Cloak of Stillwater",
+    "indexUUID": "2ha4dk88zq",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "merlin-memory-thief-doa-alter",
+    "name": "Merlin, Memory Thief",
+    "indexUUID": "umSsPWqb5H",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "nico-whiplash-allure-alc",
+    "name": "Nico, Whiplash Allure",
+    "indexUUID": "5bbae3z4py",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "crest-of-the-alliance-alcsd",
+    "name": "Crest of the Alliance",
+    "indexUUID": "ojwk0pw0y6",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "wand-of-frost-ftc",
+    "name": "Wand of Frost",
+    "indexUUID": "n0wpbhigka",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "mordred-flawless-blade-doa-alter",
+    "name": "Mordred, Flawless Blade",
+    "indexUUID": "WI2owxIw0z",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "vanitas-obliviate-schemer-alc",
+    "name": "Vanitas, Obliviate Schemer",
+    "indexUUID": "x8bd7ozuj6",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "flash-grenade-alcsd",
+    "name": "Flash Grenade",
+    "indexUUID": "isxy5lh23q",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "wildheart-lyre-ftc",
+    "name": "Wildheart Lyre",
+    "indexUUID": "50pcescfpw",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "tristan-grim-stalker-doa-alter",
+    "name": "Tristan, Grim Stalker",
+    "indexUUID": "K5luT8aRzc",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "vanitas-convergent-ruin-alc",
+    "name": "Vanitas, Convergent Ruin",
+    "indexUUID": "8m69iq4d5v",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "ingredient-pouch-alcsd",
+    "name": "Ingredient Pouch",
+    "indexUUID": "u7d6soporh",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "orb-of-choking-fumes-doap",
+    "name": "Orb of Choking Fumes",
+    "indexUUID": "llQe0cg4xJ",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "effigy-of-gaia-ftc",
+    "name": "Effigy of Gaia",
+    "indexUUID": "akb1k0zi5h",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "assassins-ripper-doa-alter",
+    "name": "Assassin's Ripper",
+    "indexUUID": "8yzADlgx4R",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "alchemists-kit-alc",
+    "name": "Alchemist's Kit",
+    "indexUUID": "ettczb14m4",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "ventus-staff-of-zephyrs-ftc",
+    "name": "Ventus, Staff of Zephyrs",
+    "indexUUID": "5av43ehjdu",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "sabrina-spirit-of-water-p23-cpr",
+    "name": "Sabrina, Spirit of Water",
+    "indexUUID": "tk3ir1o0qt",
+    "types": [
+      "CHAMPION"
+    ]
+  },
+  {
+    "slug": "bauble-of-abundance-doa-alter",
+    "name": "Bauble of Abundance",
+    "indexUUID": "Z9TCpaMJTc",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "necklace-of-foresight-alcsd",
+    "name": "Necklace of Foresight",
+    "indexUUID": "lq2kkvoqk1",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "alliance-gearshield-alc",
+    "name": "Alliance Gearshield",
+    "indexUUID": "c8ljyevpmu",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "windwalker-boots-ftc",
+    "name": "Windwalker Boots",
+    "indexUUID": "73fdt8ptrz",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "plated-bullet-alcsd",
+    "name": "Plated Bullet",
+    "indexUUID": "l75tlzsmw3",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fatal-timepiece-alc",
+    "name": "Fatal Timepiece",
+    "indexUUID": "6gvnta6qse",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "bauble-of-mending-doa-alter",
+    "name": "Bauble of Mending",
+    "indexUUID": "hLHpI5rHIK",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "zephyrs-edge-ftc",
+    "name": "Zephyr's Edge",
+    "indexUUID": "i6eifnz0fg",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "powercharged-shield-alcsd",
+    "name": "Powercharged Shield",
+    "indexUUID": "rrii17fzcy",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "beastbond-boots-doa-alter",
+    "name": "Beastbond Boots",
+    "indexUUID": "xjuCkODVRx",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "navigation-compass-alc",
+    "name": "Navigation Compass",
+    "indexUUID": "sw2ugmnmp5",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "the-majestic-spirit-ftc",
+    "name": "The Majestic Spirit",
+    "indexUUID": "tsvbgl6ffq",
+    "types": [
+      "REGALIA",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "beastbond-ears-doa-alter",
+    "name": "Beastbond Ears",
+    "indexUUID": "JPcFmCpdiF",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "prototype-pistol-alcsd",
+    "name": "Prototype Pistol",
+    "indexUUID": "frzrplywc0",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "orb-of-hubris-alc",
+    "name": "Orb of Hubris",
+    "indexUUID": "af098kmoi0",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fractured-crown-ftc",
+    "name": "Fractured Crown",
+    "indexUUID": "suo6gb0op3",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "beastbond-paws-doa-alter",
+    "name": "Beastbond Paws",
+    "indexUUID": "F1t18omUlx",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "resplendent-kite-shield-alc",
+    "name": "Resplendent Kite Shield",
+    "indexUUID": "a5uhjxhkur",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "prototype-staff-alcsd",
+    "name": "Prototype Staff",
+    "indexUUID": "8c9htu9agw",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "covenant-of-thorns-ftc",
+    "name": "Covenant of Thorns",
+    "indexUUID": "1vt1cn1tzg",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "quickdraw-piercer-alcsd",
+    "name": "Quickdraw Piercer",
+    "indexUUID": "j4f15joh30",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "rusted-warshield-alc",
+    "name": "Rusted Warshield",
+    "indexUUID": "fp66pv4n1n",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "blinding-orb-doa-alter",
+    "name": "Blinding Orb",
+    "indexUUID": "qYH9PJP7uM",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "bedivere-woodland-overseer-ftc",
+    "name": "Bedivere, Woodland Overseer",
+    "indexUUID": "pwakb1k0zi",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "scale-of-souls-alcsd",
+    "name": "Scale of Souls",
+    "indexUUID": "0z2snsdwmx",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "seekers-rifle-alc",
+    "name": "Seeker's Rifle",
+    "indexUUID": "3gygojwk0p",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "chalice-of-blood-doa-alter",
+    "name": "Chalice of Blood",
+    "indexUUID": "UiohpiTtgs",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "blanche-sheltering-saint-ftc",
+    "name": "Blanche, Sheltering Saint",
+    "indexUUID": "5k1vt1cn1t",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "capricious-lynx-ftc",
+    "name": "Capricious Lynx",
+    "indexUUID": "v1au7t9m4m",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "synth-disrupter-alcsd",
+    "name": "Synth Disrupter",
+    "indexUUID": "z1vdxi74wa",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "synthetic-core-alc",
+    "name": "Synthetic Core",
+    "indexUUID": "w0y6isxy5l",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "channeling-stone-doa-alter",
+    "name": "Channeling Stone",
+    "indexUUID": "EBWWwvSxr3",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "arcanists-prism-doap",
+    "name": "Arcanist's Prism",
+    "indexUUID": "dIEAN4J4YS",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "cunning-broker-ftc",
+    "name": "Cunning Broker",
+    "indexUUID": "oy34bro89w",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tasershot-alcsd",
+    "name": "Tasershot",
+    "indexUUID": "4x7e22tk3i",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "crystal-of-argus-doa-alter",
+    "name": "Crystal of Argus",
+    "indexUUID": "j5iQQPd2m5",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "prismatic-edge-doap",
+    "name": "Prismatic Edge",
+    "indexUUID": "FxYwR2azTt",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "temporal-spectrometer-alc",
+    "name": "Temporal Spectrometer",
+    "indexUUID": "h23qu7d6so",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "crystal-of-empowerment-doa-alter",
+    "name": "Crystal of Empowerment",
+    "indexUUID": "dmfoA7jOjy",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "wayfinders-map-alc",
+    "name": "Wayfinder's Map",
+    "indexUUID": "porhlq2kkv",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "worn-gearblade-alcsd",
+    "name": "Worn Gearblade",
+    "indexUUID": "r1o0qtb31x",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "caliburn-of-silencing-doap",
+    "name": "Caliburn of Silencing",
+    "indexUUID": "bA3tRrJr2T",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "dawn-of-ashes-ftc",
+    "name": "Dawn of Ashes",
+    "indexUUID": "4coy34bro8",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "develop-mana-ftc",
+    "name": "Develop Mana",
+    "indexUUID": "wzh973fdt8",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "curved-dagger-doa-alter",
+    "name": "Curved Dagger",
+    "indexUUID": "Q2ugqVm04E",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "penetrator-round-alcsd",
+    "name": "Penetrator Round",
+    "indexUUID": "97n2jnltv5",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "bombard-flarecannon-alc",
+    "name": "Bombard Flarecannon",
+    "indexUUID": "oqk1l75tlz",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "seed-of-nature-doap",
+    "name": "Seed of Nature",
+    "indexUUID": "ybdj1Db9jz",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fast-cure-ftc",
+    "name": "Fast Cure",
+    "indexUUID": "3oda2ha4dk",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "deployment-beacon-alcsd",
+    "name": "Deployment Beacon",
+    "indexUUID": "klryvfq3hu",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "forgelight-scepter-alc",
+    "name": "Forgelight Scepter",
+    "indexUUID": "smw3rrii17",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "discordia-harp-of-malice-doa-alter",
+    "name": "Discordia, Harp of Malice",
+    "indexUUID": "5LoOprBJay",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fractal-of-insight-ftc",
+    "name": "Fractal of Insight",
+    "indexUUID": "rp5k1vt1cn",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "heatwave-generator-alc",
+    "name": "Heatwave Generator",
+    "indexUUID": "fzcyfrzrpl",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "cosmic-astroscope-alcsd",
+    "name": "Cosmic Astroscope",
+    "indexUUID": "qj5bbae3z4",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "drawn-blade-doa-alter",
+    "name": "Drawn Blade",
+    "indexUUID": "eSAIP7mx9z",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "cascading-round-alc",
+    "name": "Cascading Round",
+    "indexUUID": "ywc08c9htu",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "archon-broadsword-alcsd",
+    "name": "Archon Broadsword",
+    "indexUUID": "pyx8bd7ozu",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "excalibur-cursed-sword-doa-alter",
+    "name": "Excalibur, Cursed Sword",
+    "indexUUID": "4sm14RaEkg",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "gawain-chivalrous-thief-ftc",
+    "name": "Gawain, Chivalrous Thief",
+    "indexUUID": "du50pcescf",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "conceal-doap",
+    "name": "Conceal",
+    "indexUUID": "8nbmykyXcw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "crystalline-mirror-alc",
+    "name": "Crystalline Mirror",
+    "indexUUID": "9agwj4f15j",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "eye-of-argus-doa-alter",
+    "name": "Eye of Argus",
+    "indexUUID": "iiZtKTulPg",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "gentle-respite-ftc",
+    "name": "Gentle Respite",
+    "indexUUID": "ddv1au7t9m",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "sentinel-fabricator-alcsd",
+    "name": "Sentinel Fabricator",
+    "indexUUID": "j68m69iq4d",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "imperious-highlander-ftc",
+    "name": "Imperious Highlander",
+    "indexUUID": "659ytyj2s3",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "fire-resonance-bauble-doa-alter",
+    "name": "Fire Resonance Bauble",
+    "indexUUID": "LROrzTmh55",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "shadows-twin-alcsd",
+    "name": "Shadow's Twin",
+    "indexUUID": "5vettczb14",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "magebane-lash-alc",
+    "name": "Magebane Lash",
+    "indexUUID": "oh300z2sns",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "brewing-kit-alc",
+    "name": "Brewing Kit",
+    "indexUUID": "dwmxz1vdxi",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "galatine-sword-of-sunlight-doa-alter",
+    "name": "Galatine, Sword of Sunlight",
+    "indexUUID": "3traenEA8M",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "lancelot-goliath-of-aesa-ftc",
+    "name": "Lancelot, Goliath of Aesa",
+    "indexUUID": "w9n0wpbhig",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "lurking-assailant-ftc",
+    "name": "Lurking Assailant",
+    "indexUUID": "uq2r6v374c",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "turbulent-bullet-alc",
+    "name": "Turbulent Bullet",
+    "indexUUID": "f8urrqtjot",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "grand-crusaders-ring-doa-alter",
+    "name": "Grand Crusader's Ring",
+    "indexUUID": "2gv7DC0KID",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "backstep-alcsd",
+    "name": "Backstep",
+    "indexUUID": "sesw2ugmnm",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "jewel-of-enlightenment-doa-alter",
+    "name": "Jewel of Enlightenment",
+    "indexUUID": "AKA19OwaCh",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "morgan-soul-guide-ftc",
+    "name": "Morgan, Soul Guide",
+    "indexUUID": "ka5av43ehj",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "the-elysian-astrolabe-alc",
+    "name": "The Elysian Astrolabe",
+    "indexUUID": "4nmxqsm4o9",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "life-essence-amulet-doa-alter",
+    "name": "Life Essence Amulet",
+    "indexUUID": "1XegCUjBnY",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "ordinary-bear-ftc",
+    "name": "Ordinary Bear",
+    "indexUUID": "p3nq0ymvdd",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "gloamspire-lance-alc",
+    "name": "Gloamspire Lance",
+    "indexUUID": "8vn1voy5tt",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "academy-attendant-alc",
+    "name": "Academy Attendant",
+    "indexUUID": "m4c8ljyevp",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "peaceful-reunion-ftc",
+    "name": "Peaceful Reunion",
+    "indexUUID": "wr42i6eifn",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mana-limiter-doa-alter",
+    "name": "Mana Limiter",
+    "indexUUID": "IC3OU6vCnF",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "academy-guide-alc",
+    "name": "Academy Guide",
+    "indexUUID": "kk39i1f0ht",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "map-of-hidden-passage-doa-alter",
+    "name": "Map of Hidden Passage",
+    "indexUUID": "2bzajcZZRD",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "prismatic-sanctuary-ftc",
+    "name": "Prismatic Sanctuary",
+    "indexUUID": "9w0ejcyuvu",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "evasive-maneuvers-alcsd",
+    "name": "Evasive Maneuvers",
+    "indexUUID": "1n3gygojwk",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "allied-warpriestess-alc",
+    "name": "Allied Warpriestess",
+    "indexUUID": "2tsn0ye3ae",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "melodious-flute-doa-alter",
+    "name": "Melodious Flute",
+    "indexUUID": "WAFNy2lY5t",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "resolute-stand-ftc",
+    "name": "Resolute Stand",
+    "indexUUID": "o6gb0op3nq",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "automaton-drone-alc",
+    "name": "Automaton Drone",
+    "indexUUID": "mu6gvnta6q",
+    "types": [
+      "TOKEN",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "foraging-servant-alcsd",
+    "name": "Foraging Servant",
+    "indexUUID": "0pw0y6isxy",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "orb-of-glitter-doa-alter",
+    "name": "Orb of Glitter",
+    "indexUUID": "P7hHZBVScB",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "right-of-realm-ftc",
+    "name": "Right of Realm",
+    "indexUUID": "ptrz1bqry4",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "barter-herbs-alc",
+    "name": "Barter Herbs",
+    "indexUUID": "p5af098kmo",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "fortified-mana-shield-alcsd",
+    "name": "Fortified Mana Shield",
+    "indexUUID": "5lh23qu7d6",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "scavenging-raccoon-ftc",
+    "name": "Scavenging Raccoon",
+    "indexUUID": "fdt8ptrz1b",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "orb-of-regret-doa-alter",
+    "name": "Orb of Regret",
+    "indexUUID": "BY0E8si926",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "blightroot-alc",
+    "name": "Blightroot",
+    "indexUUID": "i0a5uhjxhk",
+    "types": [
+      "TOKEN",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "ornamental-greatsword-doa-alter",
+    "name": "Ornamental Greatsword",
+    "indexUUID": "qyQLlDYBlr",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "seeking-shot-ftc",
+    "name": "Seeking Shot",
+    "indexUUID": "88zq9ox7u6",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "caretaker-drone-alc",
+    "name": "Caretaker Drone",
+    "indexUUID": "urfp66pv4n",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "heavy-swing-alcsd",
+    "name": "Heavy Swing",
+    "indexUUID": "kvoqk1l75t",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "poisoned-coating-oil-doa-alter",
+    "name": "Poisoned Coating Oil",
+    "indexUUID": "OofVX5hX8X",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "idle-thoughts-alcsd",
+    "name": "Idle Thoughts",
+    "indexUUID": "rWhFC8XBaH",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "steady-verse-ftc",
+    "name": "Steady Verse",
+    "indexUUID": "sbierp5k1v",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "deploy-gunshield-alc",
+    "name": "Deploy Gunshield",
+    "indexUUID": "bjvwbcizm6",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "poisoned-dagger-doa-alter",
+    "name": "Poisoned Dagger",
+    "indexUUID": "0D6AfZyKXh",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "imperial-recruit-alcsd",
+    "name": "Imperial Recruit",
+    "indexUUID": "lzsmw3rrii",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "thieving-cut-ftc",
+    "name": "Thieving Cut",
+    "indexUUID": "7t9m4muq2r",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "safeguard-amulet-doa-alter",
+    "name": "Safeguard Amulet",
+    "indexUUID": "yj2rJBREH8",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "distilled-atrophy-alc",
+    "name": "Distilled Atrophy",
+    "indexUUID": "h38lrj5221",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "imperial-rifleman-alcsd",
+    "name": "Imperial Rifleman",
+    "indexUUID": "17fzcyfrzr",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "sealed-blade-doa-alter",
+    "name": "Sealed Blade",
+    "indexUUID": "mDN1CI9IEe",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "blazing-bowman-ftc",
+    "name": "Blazing Bowman",
+    "indexUUID": "qry41lw9n0",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "dusklight-communion-alc",
+    "name": "Dusklight Communion",
+    "indexUUID": "5upufyoz23",
+    "types": [
+      "UNIQUE",
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "empowering-prayer-alc",
+    "name": "Empowering Prayer",
+    "indexUUID": "yfzk96yd60",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "imperial-sentry-alcsd",
+    "name": "Imperial Sentry",
+    "indexUUID": "plywc08c9h",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "seers-sword-doa-alter",
+    "name": "Seer's Sword",
+    "indexUUID": "XQKyUqsMUg",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "corhazi-arsonist-ftc",
+    "name": "Corhazi Arsonist",
+    "indexUUID": "0ejcyuvuxn",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "empowering-tincture-alc",
+    "name": "Empowering Tincture",
+    "indexUUID": "9g44vm5kt3",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "sharpening-stone-doa-alter",
+    "name": "Sharpening Stone",
+    "indexUUID": "usb5FgKvZX",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "flamebreak-chorus-ftc",
+    "name": "Flamebreak Chorus",
+    "indexUUID": "yky280mtts",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "escape-the-wreckage-alc",
+    "name": "Escape the Wreckage",
+    "indexUUID": "q2svd53zc9",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "smoke-bombs-doa-alter",
+    "name": "Smoke Bombs",
+    "indexUUID": "ScGcOmkoQt",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "hone-by-fire-ftc",
+    "name": "Hone by Fire",
+    "indexUUID": "yuvuxnrw8q",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "martial-guard-alcsd",
+    "name": "Martial Guard",
+    "indexUUID": "nsdwmxz1vd",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "incendiary-fractal-ftc",
+    "name": "Incendiary Fractal",
+    "indexUUID": "igka5av43e",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "surveillance-stone-doa-alter",
+    "name": "Surveillance Stone",
+    "indexUUID": "kk46Whz7CJ",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "exalted-dorumegian-throne-alc",
+    "name": "Exalted Dorumegian Throne",
+    "indexUUID": "p4lpnvx7mn",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "exorcise-curses-alc",
+    "name": "Exorcise Curses",
+    "indexUUID": "u1xhs5jwsl",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "materialize-munitions-alcsd",
+    "name": "Materialize Munitions",
+    "indexUUID": "xi74wa4x7e",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "sword-of-adversity-doa-alter",
+    "name": "Sword of Adversity",
+    "indexUUID": "dpu9pHGX48",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "innervate-fury-ftc",
+    "name": "Innervate Fury",
+    "indexUUID": "wpbhigka5a",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "fraysia-alc",
+    "name": "Fraysia",
+    "indexUUID": "soporhlq2k",
+    "types": [
+      "TOKEN",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "novice-mechanist-alcsd",
+    "name": "Novice Mechanist",
+    "indexUUID": "22tk3ir1o0",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "sword-of-seeking-doa-alter",
+    "name": "Sword of Seeking",
+    "indexUUID": "Dz8I0eJzaf",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "red-slime-ftc",
+    "name": "Red Slime",
+    "indexUUID": "mttsvbgl6f",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tome-of-knowledge-doa-alter",
+    "name": "Tome of Knowledge",
+    "indexUUID": "yDARN8eV6B",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "varuckan-acolyte-ftc",
+    "name": "Varuckan Acolyte",
+    "indexUUID": "a4dk88zq9o",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "freydis-master-tactician-alc",
+    "name": "Freydis, Master Tactician",
+    "indexUUID": "7dedg616r0",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "harvest-herbs-alc",
+    "name": "Harvest Herbs",
+    "indexUUID": "zadf9q1wl8",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "warriors-longsword-doa-alter",
+    "name": "Warrior's Longsword",
+    "indexUUID": "jF1VuIR7a6",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "corhazi-trapper-ftc",
+    "name": "Corhazi Trapper",
+    "indexUUID": "sdbzr5zs29",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "healing-aura-alc",
+    "name": "Healing Aura",
+    "indexUUID": "ao8bls6g7x",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "deep-sea-fractal-ftc",
+    "name": "Deep Sea Fractal",
+    "indexUUID": "hjdu50pces",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "water-resonance-bauble-doa-alter",
+    "name": "Water Resonance Bauble",
+    "indexUUID": "dSSRtNnPtw",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "into-the-fray-alc",
+    "name": "Into the Fray",
+    "indexUUID": "tu9agwj4f1",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "wind-resonance-bauble-doa-alter",
+    "name": "Wind Resonance Bauble",
+    "indexUUID": "bHGUNMFLg9",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fractal-of-intrusion-ftc",
+    "name": "Fractal of Intrusion",
+    "indexUUID": "cfpwakb1k0",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "storm-tyrants-eye-doa-alter",
+    "name": "Storm Tyrant's Eye",
+    "indexUUID": "EQZZsiUDyl",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fracturize-ftc",
+    "name": "Fracturize",
+    "indexUUID": "cpvn96659y",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "lena-dorumegias-herald-alc",
+    "name": "Lena, Dorumegia's Herald",
+    "indexUUID": "gwve1d47o7",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "lone-gunslinger-alc",
+    "name": "Lone Gunslinger",
+    "indexUUID": "eanl1gxrpx",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "frostbind-ftc",
+    "name": "Frostbind",
+    "indexUUID": "z0fgm3pal7",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "tome-of-sacred-lightning-doa-alter",
+    "name": "Tome of Sacred Lightning",
+    "indexUUID": "MyUTeqUJ0H",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "manaroot-alc",
+    "name": "Manaroot",
+    "indexUUID": "5joh300z2s",
+    "types": [
+      "TOKEN",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "woodland-squirrels-doap",
+    "name": "Woodland Squirrels",
+    "indexUUID": "6W5AJwF3Y3",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "frostbinder-apostle-ftc",
+    "name": "Frostbinder Apostle",
+    "indexUUID": "x7u6wzh973",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "majestic-spirits-crest-doa-alter",
+    "name": "Majestic Spirit's Crest",
+    "indexUUID": "Tx6iJQNSA6",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "stalwart-shieldmate-alcsd",
+    "name": "Stalwart Shieldmate",
+    "indexUUID": "eifnz0fgm3",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "navigate-the-streets-alc",
+    "name": "Navigate the Streets",
+    "indexUUID": "8jypwc8tuh",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "guarded-dissipation-ftc",
+    "name": "Guarded Dissipation",
+    "indexUUID": "r5zs29xxoo",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "sword-of-avarice-doa-alter",
+    "name": "Sword of Avarice",
+    "indexUUID": "dmbBXRTVIk",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "oasis-trading-post-alc",
+    "name": "Oasis Trading Post",
+    "indexUUID": "uy4xippor7",
+    "types": [
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "carnwennan-shrouded-edge-doa-alter",
+    "name": "Carnwennan, Shrouded Edge",
+    "indexUUID": "Au8eN2Jtuu",
+    "types": [
+      "REGALIA",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "innervate-knowledge-ftc",
+    "name": "Innervate Knowledge",
+    "indexUUID": "pcescfpwak",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "organize-the-alliance-alc",
+    "name": "Organize the Alliance",
+    "indexUUID": "ch2bbmoqk2",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "oceans-blessing-ftc",
+    "name": "Ocean's Blessing",
+    "indexUUID": "4muq2r6v37",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "luxeras-map-doa-alter",
+    "name": "Luxera's Map",
+    "indexUUID": "s23UHXgcZq",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "palatial-concourse-alc",
+    "name": "Palatial Concourse",
+    "indexUUID": "c7wklzjmwu",
+    "types": [
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "protective-fractal-ftc",
+    "name": "Protective Fractal",
+    "indexUUID": "1lw9n0wpbh",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "gaias-blessing-doa-alter",
+    "name": "Gaia's Blessing",
+    "indexUUID": "ymhDYTPfi1",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "plea-for-peace-alc",
+    "name": "Plea for Peace",
+    "indexUUID": "ir99sx6q3p",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "take-point-alcsd",
+    "name": "Take Point",
+    "indexUUID": "098kmoi0a5",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "devastating-blow-doap",
+    "name": "Devastating Blow",
+    "indexUUID": "At1UNRG7F0",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "refracting-missile-ftc",
+    "name": "Refracting Missile",
+    "indexUUID": "6ffqsuo6gb",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "horn-of-beastcalling-doa-alter",
+    "name": "Horn of Beastcalling",
+    "indexUUID": "6e7lRnczfL",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "potion-of-healing-alc",
+    "name": "Potion of Healing",
+    "indexUUID": "qtb31x97n2",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "accepted-contract-doa-alter",
+    "name": "Accepted Contract",
+    "indexUUID": "uZCyXDNJ6I",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "riptide-slash-ftc",
+    "name": "Riptide Slash",
+    "indexUUID": "1tzgcxyky2",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "backstab-doa-alter",
+    "name": "Backstab",
+    "indexUUID": "sxg6WefxIe",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "song-of-frost-ftc",
+    "name": "Song of Frost",
+    "indexUUID": "t1cn1tzgcx",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "raze-the-land-alc",
+    "name": "Raze the Land",
+    "indexUUID": "6i0iqmyn2r",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "razorvine-alc",
+    "name": "Razorvine",
+    "indexUUID": "jnltv5klry",
+    "types": [
+      "TOKEN",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "banner-knight-doa-alter",
+    "name": "Banner Knight",
+    "indexUUID": "IAkuSSnzYB",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "anthem-of-vitality-ftc",
+    "name": "Anthem of Vitality",
+    "indexUUID": "vbgl6ffqsu",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "reconstructive-surgery-alc",
+    "name": "Reconstructive Surgery",
+    "indexUUID": "z308kuz07n",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "barrier-servant-doa-alter",
+    "name": "Barrier Servant",
+    "indexUUID": "xW6SZSlJX6",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "corhazi-outlook-ftc",
+    "name": "Corhazi Outlook",
+    "indexUUID": "rw8qq1uwq8",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "reposition-alc",
+    "name": "Reposition",
+    "indexUUID": "vfq3huqj5b",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "incendiary-shot-alcsd",
+    "name": "Incendiary Shot",
+    "indexUUID": "3qu7d6sopo",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "blissful-calling-doa-alter",
+    "name": "Blissful Calling",
+    "indexUUID": "YOjdZJpOO1",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "dematerialize-ftc",
+    "name": "Dematerialize",
+    "indexUUID": "b1k0zi5h8a",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "sanctum-of-esoteric-truth-alc",
+    "name": "Sanctum of Esoteric Truth",
+    "indexUUID": "k45swaf8ur",
+    "types": [
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "careful-study-doa-alter",
+    "name": "Careful Study",
+    "indexUUID": "4NkVdSx9ed",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "displace-ftc",
+    "name": "Displace",
+    "indexUUID": "bro89w0ejc",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "scavenge-the-distillery-alc",
+    "name": "Scavenge the Distillery",
+    "indexUUID": "rqtjot4nmx",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "essence-of-blizzards-alcsd",
+    "name": "Essence of Blizzards",
+    "indexUUID": "k1l75tlzsm",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "clean-cut-doa-alter",
+    "name": "Clean Cut",
+    "indexUUID": "71i7d3JB9A",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "green-slime-ftc",
+    "name": "Green Slime",
+    "indexUUID": "zgcxyky280",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "scry-the-skies-alc",
+    "name": "Scry the Skies",
+    "indexUUID": "F9POfB5Nah",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "innervate-agility-ftc",
+    "name": "Innervate Agility",
+    "indexUUID": "v43ehjdu50",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "intrepid-spearman-ftc",
+    "name": "Intrepid Spearman",
+    "indexUUID": "pal7cpvn96",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "seasoned-shieldmaster-alc",
+    "name": "Seasoned Shieldmaster",
+    "indexUUID": "qsm4o98vn1",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "coup-de-grace-doa-alter",
+    "name": "Coup de Grace",
+    "indexUUID": "5qWWpkgQLl",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "serum-of-wisdom-alc",
+    "name": "Serum of Wisdom",
+    "indexUUID": "bae3z4pyx8",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "cram-session-doa-alter",
+    "name": "Cram Session",
+    "indexUUID": "9GWxrTMfBz",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mark-of-fervor-ftc",
+    "name": "Mark of Fervor",
+    "indexUUID": "80mttsvbgl",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "sidestep-alc",
+    "name": "Sidestep",
+    "indexUUID": "voy5ttkk39",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "crusader-of-aesa-doa-alter",
+    "name": "Crusader of Aesa",
+    "indexUUID": "2Q60hBYO3i",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "parcenet-royal-maid-ftc",
+    "name": "Parcenet, Royal Maid",
+    "indexUUID": "xxoo7dl5j4",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "silvershine-alc",
+    "name": "Silvershine",
+    "indexUUID": "bd7ozuj68m",
+    "types": [
+      "TOKEN",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "deflecting-edge-doa-alter",
+    "name": "Deflecting Edge",
+    "indexUUID": "g7uDOmUf2u",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "rending-flames-doap",
+    "name": "Rending Flames",
+    "indexUUID": "soO3hjaVfN",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "rally-the-peasants-ftc",
+    "name": "Rally the Peasants",
+    "indexUUID": "q1uwq8sdbz",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "springleaf-alc",
+    "name": "Springleaf",
+    "indexUUID": "69iq4d5vet",
+    "types": [
+      "TOKEN",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "scatter-essence-ftc",
+    "name": "Scatter Essence",
+    "indexUUID": "zi5h8asbie",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "dungeon-guide-doa-alter",
+    "name": "Dungeon Guide",
+    "indexUUID": "em6eEh9q8y",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "strategic-warfare-alc",
+    "name": "Strategic Warfare",
+    "indexUUID": "i1f0ht2tsn",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "eager-page-doa-alter",
+    "name": "Eager Page",
+    "indexUUID": "jlAc0wWlDZ",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "windrider-invoker-ftc",
+    "name": "Windrider Invoker",
+    "indexUUID": "lx6xwr42i6",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "study-the-fables-alc",
+    "name": "Study the Fables",
+    "indexUUID": "0ye3aebjvw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "empowering-harmony-doa-alter",
+    "name": "Empowering Harmony",
+    "indexUUID": "Kc5Bktw0yK",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "tempered-steel-doap",
+    "name": "Tempered Steel",
+    "indexUUID": "vyRjDql0TR",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "water-barrier-alcsd",
+    "name": "Water Barrier",
+    "indexUUID": "xWJND68I8X",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "shock-therapy-ftc",
+    "name": "Shock Therapy",
+    "indexUUID": "tyj2s3572j",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "subjugating-lash-alc",
+    "name": "Subjugating Lash",
+    "indexUUID": "bcizm6h38l",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "enraged-boars-doa-alter",
+    "name": "Enraged Boars",
+    "indexUUID": "MmbQQdsRhi",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "voltaic-sphere-ftc",
+    "name": "Voltaic Sphere",
+    "indexUUID": "0op3nq0ymv",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "esteemed-knight-doa-alter",
+    "name": "Esteemed Knight",
+    "indexUUID": "iabqeB0I6t",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "supply-drone-alc",
+    "name": "Supply Drone",
+    "indexUUID": "ljyevpmu6g",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "recruitment-officer-alcsd",
+    "name": "Recruitment Officer",
+    "indexUUID": "1x97n2jnlt",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "incarnate-majesty-ftc",
+    "name": "Incarnate Majesty",
+    "indexUUID": "7dl5j4lx6x",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "swooping-talons-alc",
+    "name": "Swooping Talons",
+    "indexUUID": "rj52215upu",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "slay-the-king-ftc",
+    "name": "Slay the King",
+    "indexUUID": "6v374coy34",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "fervent-beastmaster-doa-alter",
+    "name": "Fervent Beastmaster",
+    "indexUUID": "7NMFSRR5V3",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "take-aim-alc",
+    "name": "Take Aim",
+    "indexUUID": "vnta6qsesw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "illuminate-secrets-ftc",
+    "name": "Illuminate Secrets",
+    "indexUUID": "0ymvddv1au",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "galahad-court-knight-doa-alter",
+    "name": "Galahad, Court Knight",
+    "indexUUID": "eO5wsjwRyQ",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "take-cover-alc",
+    "name": "Take Cover",
+    "indexUUID": "2ugmnmp5af",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "gildas-chronicler-of-aesa-doa-alter",
+    "name": "Gildas, Chronicler of Aesa",
+    "indexUUID": "JAs9SmLqUS",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "uther-illustrious-king-ftc",
+    "name": "Uther, Illustrious King",
+    "indexUUID": "5h8asbierp",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "gray-wolf-doa-alter",
+    "name": "Gray Wolf",
+    "indexUUID": "hJ2xh9lNMR",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "avatar-of-gaia-ftc",
+    "name": "Avatar of Gaia",
+    "indexUUID": "fqsuo6gb0o",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "the-eternal-kingdom-alc",
+    "name": "The Eternal Kingdom",
+    "indexUUID": "fyoz23yfzk",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "trained-sharpshooter-alc",
+    "name": "Trained Sharpshooter",
+    "indexUUID": "uhjxhkurfp",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "harness-mana-doa-alter",
+    "name": "Harness Mana",
+    "indexUUID": "G2XFRE8rFX",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "kraal-stonescale-tyrant-ftc",
+    "name": "Kraal, Stonescale Tyrant",
+    "indexUUID": "572j3oda2h",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "unearth-revelations-alc",
+    "name": "Unearth Revelations",
+    "indexUUID": "96yd609g44",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "honorable-vanguard-doa-alter",
+    "name": "Honorable Vanguard",
+    "indexUUID": "cWJqSwhKEQ",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "vanish-from-sight-alc",
+    "name": "Vanish from Sight",
+    "indexUUID": "vm5kt3q2sv",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "cosmic-bolt-alcsd",
+    "name": "Cosmic Bolt",
+    "indexUUID": "vpmu6gvnta",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "ravaging-tempest-doap-ks",
+    "name": "Ravaging Tempest",
+    "indexUUID": "WsunZX4IlW",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "inspiring-call-doa-alter",
+    "name": "Inspiring Call",
+    "indexUUID": "k71PE3clOI",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "reclaim-doap",
+    "name": "Reclaim",
+    "indexUUID": "F2wp1v0Tyk",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "airship-cannoneer-alc",
+    "name": "Airship Cannoneer",
+    "indexUUID": "d53zc9p4lp",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "airship-engineer-alc",
+    "name": "Airship Engineer",
+    "indexUUID": "66pv4n1n3g",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "invigorated-slash-doa-alter",
+    "name": "Invigorated Slash",
+    "indexUUID": "W1g0hNzXAC",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "juggle-knives-doa-alter",
+    "name": "Juggle Knives",
+    "indexUUID": "7VxRE6HgZC",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "attune-with-flames-alc",
+    "name": "Attune with Flames",
+    "indexUUID": "nvx7mnu1xh",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "automaton-bomber-alc",
+    "name": "Automaton Bomber",
+    "indexUUID": "ygojwk0pw0",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "kingdom-informant-doa-alter",
+    "name": "Kingdom Informant",
+    "indexUUID": "zPC4Yqo9Fs",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "blazing-charge-alc",
+    "name": "Blazing Charge",
+    "indexUUID": "s5jwsl7ded",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "library-witch-doa-alter",
+    "name": "Library Witch",
+    "indexUUID": "iD8qbpA8z5",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tactful-sergeant-doap",
+    "name": "Tactful Sergeant",
+    "indexUUID": "7UXGwC7lSO",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "bottled-forgelight-alc",
+    "name": "Bottled Forgelight",
+    "indexUUID": "g616r0zadf",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "magus-disciple-doa-alter",
+    "name": "Magus Disciple",
+    "indexUUID": "pnDhApDNvR",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "crimson-tear-alc",
+    "name": "Crimson Tear",
+    "indexUUID": "9q1wl8ao8b",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "nimue-cursed-touch-doa-alter",
+    "name": "Nimue, Cursed Touch",
+    "indexUUID": "l52lVIFvpy",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "excoriate-alc",
+    "name": "Excoriate",
+    "indexUUID": "ls6g7xgwve",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "opening-cut-doa-alter",
+    "name": "Opening Cut",
+    "indexUUID": "vBetRTn3eW",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "owl-familiar-doa-alter",
+    "name": "Owl Familiar",
+    "indexUUID": "WShYN9M3lU",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "explosive-fractal-alc",
+    "name": "Explosive Fractal",
+    "indexUUID": "1d47o7eanl",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "anger-the-skies-doap",
+    "name": "Anger the Skies",
+    "indexUUID": "wOKw0q4SZR",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "peer-into-mana-doa-alter",
+    "name": "Peer into Mana",
+    "indexUUID": "914hZjxDL0",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "fanatical-devotee-alc",
+    "name": "Fanatical Devotee",
+    "indexUUID": "1gxrpx8jyp",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "fiery-duelist-alc",
+    "name": "Fiery Duelist",
+    "indexUUID": "wc8tuhuy4x",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "port-smuggler-doa-alter",
+    "name": "Port Smuggler",
+    "indexUUID": "uCIEMgGjWe",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "rebellious-bull-doa-alter",
+    "name": "Rebellious Bull",
+    "indexUUID": "GXeEa0pe3B",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "fiery-warcry-alc",
+    "name": "Fiery Warcry",
+    "indexUUID": "ippor7ch2b",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "reckless-slash-doa-alter",
+    "name": "Reckless Slash",
+    "indexUUID": "NaGi9nBjJA",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "power-overwhelming-doap",
+    "name": "Power Overwhelming",
+    "indexUUID": "AnEPyfFfHj",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "fireblooded-oath-alc",
+    "name": "Fireblooded Oath",
+    "indexUUID": "bmoqk2c7wk",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "refurbish-doa-alter",
+    "name": "Refurbish",
+    "indexUUID": "b43adsk77Y",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "firetuned-automaton-alc",
+    "name": "Firetuned Automaton",
+    "indexUUID": "lzjmwuir99",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "savage-slash-doa-alter",
+    "name": "Savage Slash",
+    "indexUUID": "4a7QLLouGk",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "fireworks-display-alc",
+    "name": "Fireworks Display",
+    "indexUUID": "sx6q3p6i0i",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "flameblessed-trainee-alc",
+    "name": "Flameblessed Trainee",
+    "indexUUID": "qmyn2rz308",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "smack-with-flute-doa-alter",
+    "name": "Smack with Flute",
+    "indexUUID": "zpkcFs72Ah",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "force-load-alc",
+    "name": "Force Load",
+    "indexUUID": "y6isxy5lh2",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "forgelight-shieldmaiden-alc",
+    "name": "Forgelight Shieldmaiden",
+    "indexUUID": "kuz07nk45s",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "song-of-nurturing-doa-alter",
+    "name": "Song of Nurturing",
+    "indexUUID": "4hbA9FT56L",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "strategic-planning-doa-alter",
+    "name": "Strategic Planning",
+    "indexUUID": "EtIGAJ8sxw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spirit-blade-dispersion-doap",
+    "name": "Spirit Blade: Dispersion",
+    "indexUUID": "7Rsid05Cf6",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "gloamspire-black-market-alc",
+    "name": "Gloamspire, Black Market",
+    "indexUUID": "waf8urrqtj",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "sudden-steel-doa-alter",
+    "name": "Sudden Steel",
+    "indexUUID": "SSu2eQZFJV",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "inzali-unshackled-blaze-alc",
+    "name": "Inzali, Unshackled Blaze",
+    "indexUUID": "ot4nmxqsm4",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "training-session-doa-alter",
+    "name": "Training Session",
+    "indexUUID": "G42RDwb3Ko",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "lavaheated-brew-alc",
+    "name": "Lavaheated Brew",
+    "indexUUID": "o98vn1voy5",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spirit-blade-infusion-doap",
+    "name": "Spirit Blade: Infusion",
+    "indexUUID": "CgyJxpEgzk",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "manic-zealot-alc",
+    "name": "Manic Zealot",
+    "indexUUID": "ttkk39i1f0",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "trusty-steed-doa-alter",
+    "name": "Trusty Steed",
+    "indexUUID": "FCbKYZcbNq",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "veteran-soldier-doa-alter",
+    "name": "Veteran Soldier",
+    "indexUUID": "vefcX6tBeg",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "meltdown-alc",
+    "name": "Meltdown",
+    "indexUUID": "ht2tsn0ye3",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "weaponsmith-doa-alter",
+    "name": "Weaponsmith",
+    "indexUUID": "6gN5KjqRW5",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "overwhelming-swing-alc",
+    "name": "Overwhelming Swing",
+    "indexUUID": "aebjvwbciz",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "rocket-jump-alc",
+    "name": "Rocket Jump",
+    "indexUUID": "rhlq2kkvoq",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "rococo-explosive-maven-alc",
+    "name": "Rococo, Explosive Maven",
+    "indexUUID": "m6h38lrj52",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "arthur-young-heir-doa-alter",
+    "name": "Arthur, Young Heir",
+    "indexUUID": "GjM8b5fxqj",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "blazing-direwolf-doa-alter",
+    "name": "Blazing Direwolf",
+    "indexUUID": "gKVMTAeLXQ",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tether-in-flames-alc",
+    "name": "Tether in Flames",
+    "indexUUID": "215upufyoz",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "blazing-throw-doa-alter",
+    "name": "Blazing Throw",
+    "indexUUID": "iohZMWh5v5",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "veteran-blazebearer-alc",
+    "name": "Veteran Blazebearer",
+    "indexUUID": "23yfzk96yd",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "airship-cruiser-alc",
+    "name": "Airship Cruiser",
+    "indexUUID": "609g44vm5k",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "blitz-mage-doa-alter",
+    "name": "Blitz Mage",
+    "indexUUID": "u8m6LuUSSu",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "aqueous-armor-alc",
+    "name": "Aqueous Armor",
+    "indexUUID": "t3q2svd53z",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "cemetery-sentry-doa-alter",
+    "name": "Cemetery Sentry",
+    "indexUUID": "hDUP6BY5Cx",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "awakened-deacon-alc",
+    "name": "Awakened Deacon",
+    "indexUUID": "c9p4lpnvx7",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "clumsy-apprentice-doa-alter",
+    "name": "Clumsy Apprentice",
+    "indexUUID": "LZ8JpWj27h",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "corhazi-courier-doa-alter",
+    "name": "Corhazi Courier",
+    "indexUUID": "YqQsXwEvv5",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "awakened-frostguard-alc",
+    "name": "Awakened Frostguard",
+    "indexUUID": "mnu1xhs5jw",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "calculated-foresight-alc",
+    "name": "Calculated Foresight",
+    "indexUUID": "sl7dedg616",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "creative-shock-doa-alter",
+    "name": "Creative Shock",
+    "indexUUID": "BqDw4Mei4C",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "cremation-ritual-doa-alter",
+    "name": "Cremation Ritual",
+    "indexUUID": "Pr48kXnasw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "conjure-downpour-alc",
+    "name": "Conjure Downpour",
+    "indexUUID": "r0zadf9q1w",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "convalescent-tonic-alc",
+    "name": "Convalescent Tonic",
+    "indexUUID": "l8ao8bls6g",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "disintegrate-doa-alter",
+    "name": "Disintegrate",
+    "indexUUID": "FhbVHkHQRb",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "dahlia-idyllic-dreamer-alc",
+    "name": "Dahlia, Idyllic Dreamer",
+    "indexUUID": "7xgwve1d47",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "diffusive-block-alc",
+    "name": "Diffusive Block",
+    "indexUUID": "o7eanl1gxr",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "embersong-doa-alter",
+    "name": "Embersong",
+    "indexUUID": "XMb6pSHFJg",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "embertail-squirrel-doa-alter",
+    "name": "Embertail Squirrel",
+    "indexUUID": "W1vZwOXfG3",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "dormant-sacrificial-altar-alc",
+    "name": "Dormant Sacrificial Altar",
+    "indexUUID": "px8jypwc8t",
+    "types": [
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "flash-freeze-alc",
+    "name": "Flash Freeze",
+    "indexUUID": "w3rrii17fz",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "energetic-beastbonder-doa-alter",
+    "name": "Energetic Beastbonder",
+    "indexUUID": "q2okpDFJw5",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "fractal-of-snow-alc",
+    "name": "Fractal of Snow",
+    "indexUUID": "uhuy4xippo",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "erupting-rhapsody-doa-alter",
+    "name": "Erupting Rhapsody",
+    "indexUUID": "dBAdWMoPEz",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "freezing-round-alc",
+    "name": "Freezing Round",
+    "indexUUID": "r7ch2bbmoq",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "fiery-momentum-doa-alter",
+    "name": "Fiery Momentum",
+    "indexUUID": "LUfgfsWTTO",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "fireball-doa-alter",
+    "name": "Fireball",
+    "indexUUID": "RIVahUIQVD",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "frigid-bash-alc",
+    "name": "Frigid Bash",
+    "indexUUID": "k2c7wklzjm",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "flame-sweep-doa-alter",
+    "name": "Flame Sweep",
+    "indexUUID": "FGvq4eQPbP",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "geni-gifted-mechanist-alc",
+    "name": "Geni, Gifted Mechanist",
+    "indexUUID": "wuir99sx6q",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "hypothermia-alc",
+    "name": "Hypothermia",
+    "indexUUID": "cyfrzrplyw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "flame-rune-swordsman-doa-alter",
+    "name": "Flame-Rune Swordsman",
+    "indexUUID": "VV6ADdMrr5",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "flamelash-subduer-doa-alter",
+    "name": "Flamelash Subduer",
+    "indexUUID": "1i6ierdDjq",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "krustallan-archer-alc",
+    "name": "Krustallan Archer",
+    "indexUUID": "3p6i0iqmyn",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "krustallan-distiller-alc",
+    "name": "Krustallan Distiller",
+    "indexUUID": "c08c9htu9a",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "focused-flames-doa-alter",
+    "name": "Focused Flames",
+    "indexUUID": "145y6KBhxe",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "perfect-repulsion-alc",
+    "name": "Perfect Repulsion",
+    "indexUUID": "gwj4f15joh",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "hasty-messenger-doa-alter",
+    "name": "Hasty Messenger",
+    "indexUUID": "DsiRzt0trX",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "ignite-the-soul-doa-alter",
+    "name": "Ignite the Soul",
+    "indexUUID": "rXHo9fLU32",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "potion-infusion-clarity-alc",
+    "name": "Potion Infusion: Clarity",
+    "indexUUID": "300z2snsdw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "ignited-stab-doa-alter",
+    "name": "Ignited Stab",
+    "indexUUID": "GRkBQ1Uvir",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "potion-infusion-frostbite-alc",
+    "name": "Potion Infusion: Frostbite",
+    "indexUUID": "mxz1vdxi74",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "reconnaissance-field-alc",
+    "name": "Reconnaissance Field",
+    "indexUUID": "2rz308kuz0",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "immolation-trap-doa-alter",
+    "name": "Immolation Trap",
+    "indexUUID": "Uxn14UqyQg",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "refresh-chamber-alc",
+    "name": "Refresh Chamber",
+    "indexUUID": "7nk45swaf8",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "impassioned-tutor-doa-alter",
+    "name": "Impassioned Tutor",
+    "indexUUID": "MECS7RHRZ8",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "rimesoul-bishop-alc",
+    "name": "Rimesoul Bishop",
+    "indexUUID": "urrqtjot4n",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "increasing-danger-doa-alter",
+    "name": "Increasing Danger",
+    "indexUUID": "7tUvIHeo0i",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mark-the-target-doa-alter",
+    "name": "Mark the Target",
+    "indexUUID": "LRsgl92Iqa",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "seasprite-diver-alc",
+    "name": "Seasprite Diver",
+    "indexUUID": "mxqsm4o98v",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "patient-rogue-doa-alter",
+    "name": "Patient Rogue",
+    "indexUUID": "CvvgJR4fNa",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "shatterfall-keep-alc",
+    "name": "Shatterfall Keep",
+    "indexUUID": "n1voy5ttkk",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "planted-explosive-doa-alter",
+    "name": "Planted Explosive",
+    "indexUUID": "5X5W2Uda5a",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "storm-of-thorns-alc",
+    "name": "Storm of Thorns",
+    "indexUUID": "39i1f0ht2t",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "stream-of-consciousness-alc",
+    "name": "Stream of Consciousness",
+    "indexUUID": "wa4x7e22tk",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "prodigious-burstmage-doa-alter",
+    "name": "Prodigious Burstmage",
+    "indexUUID": "l64yfOVhkp",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tactical-retreat-alc",
+    "name": "Tactical Retreat",
+    "indexUUID": "sn0ye3aebj",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "purge-in-flames-doa-alter",
+    "name": "Purge in Flames",
+    "indexUUID": "uTBsOYf15p",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "reckless-researcher-doa-alter",
+    "name": "Reckless Researcher",
+    "indexUUID": "dY36bObi9p",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "torrential-blast-alc",
+    "name": "Torrential Blast",
+    "indexUUID": "vwbcizm6h3",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "vaporjet-shieldbearer-alc",
+    "name": "Vaporjet Shieldbearer",
+    "indexUUID": "8lrj52215u",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "waverider-protector-alc",
+    "name": "Waverider Protector",
+    "indexUUID": "pufyoz23yf",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "shout-at-your-pets-doa-alter",
+    "name": "Shout at Your Pets",
+    "indexUUID": "gvXQa57cxe",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "armored-valkyrie-alc",
+    "name": "Armored Valkyrie",
+    "indexUUID": "zk96yd609g",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "spark-alight-doa-alter",
+    "name": "Spark Alight",
+    "indexUUID": "L9yBqoOshh",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spontaneous-combustion-doa-alter",
+    "name": "Spontaneous Combustion",
+    "indexUUID": "cQlxapCsxQ",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "battlefield-spotter-alc",
+    "name": "Battlefield Spotter",
+    "indexUUID": "44vm5kt3q2",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "spurn-to-ash-doa-alter",
+    "name": "Spurn to Ash",
+    "indexUUID": "ErH0lIBq4z",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "cyclonic-strike-alc",
+    "name": "Cyclonic Strike",
+    "indexUUID": "3ir1o0qtb3",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "dominating-strike-alc",
+    "name": "Dominating Strike",
+    "indexUUID": "svd53zc9p4",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "strapping-conscript-doa-alter",
+    "name": "Strapping Conscript",
+    "indexUUID": "csMiEObm2l",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "draught-of-stamina-alc",
+    "name": "Draught of Stamina",
+    "indexUUID": "lpnvx7mnu1",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "enchaining-gale-alc",
+    "name": "Enchaining Gale",
+    "indexUUID": "xhs5jwsl7d",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "varuck-smoldering-spire-doa-alter",
+    "name": "Varuck, Smoldering Spire",
+    "indexUUID": "IyM7IBCQeb",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "enhance-hearing-alc",
+    "name": "Enhance Hearing",
+    "indexUUID": "edg616r0za",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "aqueous-enchanting-doa-alter",
+    "name": "Aqueous Enchanting",
+    "indexUUID": "fMv7tIOZwL",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "enhance-potency-alc",
+    "name": "Enhance Potency",
+    "indexUUID": "df9q1wl8ao",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "avalon-cursed-isle-doa-alter",
+    "name": "Avalon, Cursed Isle",
+    "indexUUID": "41WnFOT5YS",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "fertile-grounds-alc",
+    "name": "Fertile Grounds",
+    "indexUUID": "8bls6g7xgw",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "benevolent-battle-priest-doa-alter",
+    "name": "Benevolent Battle Priest",
+    "indexUUID": "776yt8UxhU",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "imperial-alchemist-alc",
+    "name": "Imperial Alchemist",
+    "indexUUID": "ve1d47o7ea",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "blue-slime-doa-alter",
+    "name": "Blue Slime",
+    "indexUUID": "1Sl4Gq2OuV",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "bubble-mage-doa-alter",
+    "name": "Bubble Mage",
+    "indexUUID": "0n0DM1T9gz",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "perse-relentless-raptor-alc",
+    "name": "Perse, Relentless Raptor",
+    "indexUUID": "nl1gxrpx8j",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "chilling-touch-doa-alter",
+    "name": "Chilling Touch",
+    "indexUUID": "4K2pT3RmTJ",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "rapid-reload-alc",
+    "name": "Rapid Reload",
+    "indexUUID": "ypwc8tuhuy",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "deep-sea-beastbonder-doa-alter",
+    "name": "Deep Sea Beastbonder",
+    "indexUUID": "qxbdXU7H4Z",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "repelling-palmblast-alc",
+    "name": "Repelling Palmblast",
+    "indexUUID": "4xippor7ch",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "dewdrop-hares-doa-alter",
+    "name": "Dewdrop Hares",
+    "indexUUID": "fxwy3haEXU",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "rose-eternal-paragon-alc",
+    "name": "Rose, Eternal Paragon",
+    "indexUUID": "2bbmoqk2c7",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "rousing-slam-alc",
+    "name": "Rousing Slam",
+    "indexUUID": "v5klryvfq3",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "drowned-cut-doa-alter",
+    "name": "Drowned Cut",
+    "indexUUID": "2djBo4ecDL",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "shimmercloak-assassin-alc",
+    "name": "Shimmercloak Assassin",
+    "indexUUID": "wklzjmwuir",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "fishing-accident-doa-alter",
+    "name": "Fishing Accident",
+    "indexUUID": "RRx0KK6g6D",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "freeze-stiff-doa-alter",
+    "name": "Freeze Stiff",
+    "indexUUID": "qyRKqSkAQX",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spellshield-wind-alc",
+    "name": "Spellshield: Wind",
+    "indexUUID": "99sx6q3p6i",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "freezing-hail-doa-alter",
+    "name": "Freezing Hail",
+    "indexUUID": "SrBA7h2a1N",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "vanishing-shot-alc",
+    "name": "Vanishing Shot",
+    "indexUUID": "0iqmyn2rz3",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "veiled-dash-alc",
+    "name": "Veiled Dash",
+    "indexUUID": "08kuz07nk4",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "frozen-nova-doa-alter",
+    "name": "Frozen Nova",
+    "indexUUID": "IyXuaLKjSA",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "whirlwind-vizier-alc",
+    "name": "Whirlwind Vizier",
+    "indexUUID": "5swaf8urrq",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "giant-tortoise-doa-alter",
+    "name": "Giant Tortoise",
+    "indexUUID": "L0RmNaDzhk",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "give-bath-doa-alter",
+    "name": "Give Bath",
+    "indexUUID": "XeXek4dKav",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "wildgrowth-elixir-alc",
+    "name": "Wildgrowth Elixir",
+    "indexUUID": "tjot4nmxqs",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "winbless-arbalest-alc",
+    "name": "Winbless Arbalest",
+    "indexUUID": "m4o98vn1vo",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "glacial-guidance-doa-alter",
+    "name": "Glacial Guidance",
+    "indexUUID": "6IOxuftyVv",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "imbue-in-frost-doa-alter",
+    "name": "Imbue in Frost",
+    "indexUUID": "QQaOgurnjX",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "winbless-gatekeeper-alc",
+    "name": "Winbless Gatekeeper",
+    "indexUUID": "y5ttkk39i1",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "intrepid-highwayman-doa-alter",
+    "name": "Intrepid Highwayman",
+    "indexUUID": "WUAOMTZ7P2",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "winds-of-retribution-alc",
+    "name": "Winds of Retribution",
+    "indexUUID": "huqj5bbae3",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "young-peacekeeper-alc",
+    "name": "Young Peacekeeper",
+    "indexUUID": "z4pyx8bd7o",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "lakeside-serpent-doa-alter",
+    "name": "Lakeside Serpent",
+    "indexUUID": "krgjMyVHRd",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "lunete-frostbinder-priest-doa-alter",
+    "name": "Lunete, Frostbinder Priest",
+    "indexUUID": "TqCo3xlf93",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "astarte-celestial-dawn-alc",
+    "name": "Astarte, Celestial Dawn",
+    "indexUUID": "f0ht2tsn0y",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "astra-sight-alc",
+    "name": "Astra Sight",
+    "indexUUID": "zuj68m69iq",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mind-freeze-doa-alter",
+    "name": "Mind Freeze",
+    "indexUUID": "L9o11y7yfa",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mist-resonance-doa-alter",
+    "name": "Mist Resonance",
+    "indexUUID": "hw8dxKAnMX",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "astral-seal-alc",
+    "name": "Astral Seal",
+    "indexUUID": "e3aebjvwbc",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "celestial-calling-alc",
+    "name": "Celestial Calling",
+    "indexUUID": "izm6h38lrj",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mistbound-cutthroat-doa-alter",
+    "name": "Mistbound Cutthroat",
+    "indexUUID": "C7zFV2K7bL",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "mistbound-watcher-doa-alter",
+    "name": "Mistbound Watcher",
+    "indexUUID": "mA4n0Z7BQz",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "claude-fated-visionary-alc",
+    "name": "Claude, Fated Visionary",
+    "indexUUID": "52215upufy",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "cometfall-alc",
+    "name": "Cometfall",
+    "indexUUID": "4d5vettczb",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "nia-mistveiled-scout-doa-alter",
+    "name": "Nia, Mistveiled Scout",
+    "indexUUID": "PZM9uvCFai",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "pipers-lullaby-doa-alter",
+    "name": "Piper's Lullaby",
+    "indexUUID": "raG5r85ieO",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "condensed-supernova-alc",
+    "name": "Condensed Supernova",
+    "indexUUID": "14m4c8ljye",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "restorative-slash-doa-alter",
+    "name": "Restorative Slash",
+    "indexUUID": "e8nFGSSvgc",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "potion-infusion-starlight-alc",
+    "name": "Potion Infusion: Starlight",
+    "indexUUID": "6qsesw2ugm",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "revitalizing-cleanse-doa-alter",
+    "name": "Revitalizing Cleanse",
+    "indexUUID": "1BkfdFqCrG",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "scry-the-stars-alc",
+    "name": "Scry the Stars",
+    "indexUUID": "oz23yfzk96",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "seafaring-mercenary-doa-alter",
+    "name": "Seafaring Mercenary",
+    "indexUUID": "Bzy2hRKUmR",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "spellshield-astra-alc",
+    "name": "Spellshield: Astra",
+    "indexUUID": "nmp5af098k",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "set-the-traps-doa-alter",
+    "name": "Set the Traps",
+    "indexUUID": "xipHhhsgJy",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "the-constellatory-spire-alc",
+    "name": "The Constellatory Spire",
+    "indexUUID": "yd609g44vm",
+    "types": [
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "amorphous-strike-alc",
+    "name": "Amorphous Strike",
+    "indexUUID": "5kt3q2svd5",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "shroud-in-mist-doa-alter",
+    "name": "Shroud in Mist",
+    "indexUUID": "DBJ4DuLABr",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "sink-into-oblivion-doa-alter",
+    "name": "Sink into Oblivion",
+    "indexUUID": "a8I89SP24E",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "assemble-the-ancients-alc",
+    "name": "Assemble the Ancients",
+    "indexUUID": "moi0a5uhjx",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "aurousteel-greatsword-alc",
+    "name": "Aurousteel Greatsword",
+    "indexUUID": "hkurfp66pv",
+    "types": [
+      "TOKEN",
+      "WEAPON"
+    ]
+  },
+  {
+    "slug": "snow-fairy-doa-alter",
+    "name": "Snow Fairy",
+    "indexUUID": "4s0c9XgLg7",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "stillwater-patrol-doa-alter",
+    "name": "Stillwater Patrol",
+    "indexUUID": "LNSRQ5xW6E",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "clockwork-amalgam-alc",
+    "name": "Clockwork Amalgam",
+    "indexUUID": "3zc9p4lpnv",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "strike-from-the-mist-doa-alter",
+    "name": "Strike from the Mist",
+    "indexUUID": "DHn9J7gX6g",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "fractal-of-creation-alc",
+    "name": "Fractal of Creation",
+    "indexUUID": "x7mnu1xhs5",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "sudden-snow-doa-alter",
+    "name": "Sudden Snow",
+    "indexUUID": "dxAEI20h8F",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "neos-elemental-alc",
+    "name": "Neos Elemental",
+    "indexUUID": "jwsl7dedg6",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "neos-sight-alc",
+    "name": "Neos Sight",
+    "indexUUID": "4n1n3gygoj",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "tidal-sweep-doa-alter",
+    "name": "Tidal Sweep",
+    "indexUUID": "GuDKuPKNgh",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "obelisk-of-armaments-alc",
+    "name": "Obelisk of Armaments",
+    "indexUUID": "wk0pw0y6is",
+    "types": [
+      "UNIQUE",
+      "TOKEN",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "tide-diviner-doa-alter",
+    "name": "Tide Diviner",
+    "indexUUID": "zrBBvgIvt6",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "obelisk-of-fabrication-alc",
+    "name": "Obelisk of Fabrication",
+    "indexUUID": "xy5lh23qu7",
+    "types": [
+      "UNIQUE",
+      "TOKEN",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "obelisk-of-protection-alc",
+    "name": "Obelisk of Protection",
+    "indexUUID": "d6soporhlq",
+    "types": [
+      "UNIQUE",
+      "TOKEN",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "aesan-protector-doa-alter",
+    "name": "Aesan Protector",
+    "indexUUID": "heq49UQGvQ",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "arrow-trap-doa-alter",
+    "name": "Arrow Trap",
+    "indexUUID": "uoQGe5xGDQ",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "provoke-obstinance-alc",
+    "name": "Provoke Obstinance",
+    "indexUUID": "16r0zadf9q",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "smash-with-obelisk-alc",
+    "name": "Smash with Obelisk",
+    "indexUUID": "2kkvoqk1l7",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "attune-with-the-winds-doa-alter",
+    "name": "Attune with the Winds",
+    "indexUUID": "ify06tSEVC",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "summon-sentinels-alc",
+    "name": "Summon Sentinels",
+    "indexUUID": "5tlzsmw3rr",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "beseech-the-winds-doa-alter",
+    "name": "Beseech the Winds",
+    "indexUUID": "8qW1koLOK6",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "blackmarket-broker-doa-alter",
+    "name": "Blackmarket Broker",
+    "indexUUID": "hHVf5xyjob",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "anathemas-end-alc",
+    "name": "Anathema's End",
+    "indexUUID": "ii17fzcyfr",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "bushwhack-bandit-doa-alter",
+    "name": "Bushwhack Bandit",
+    "indexUUID": "kT8CeTFj82",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "carter-synthetic-reaper-alc",
+    "name": "Carter, Synthetic Reaper",
+    "indexUUID": "1wl8ao8bls",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "creeping-torment-alc",
+    "name": "Creeping Torment",
+    "indexUUID": "zrplywc08c",
+    "types": [
+      "PHANTASIA"
+    ]
+  },
+  {
+    "slug": "camelot-impenetrable-doa-alter",
+    "name": "Camelot, Impenetrable",
+    "indexUUID": "R9UFbI4Fsh",
+    "types": [
+      "UNIQUE",
+      "DOMAIN"
+    ]
+  },
+  {
+    "slug": "channel-the-wind-doa-alter",
+    "name": "Channel the Wind",
+    "indexUUID": "6YiMaCGsfV",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "demons-aim-alc",
+    "name": "Demon's Aim",
+    "indexUUID": "6g7xgwve1d",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "combo-strike-doa-alter",
+    "name": "Combo Strike",
+    "indexUUID": "zcVjsVRBV8",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "false-step-alc",
+    "name": "False Step",
+    "indexUUID": "47o7eanl1g",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "cry-for-help-doa-alter",
+    "name": "Cry for Help",
+    "indexUUID": "nIKhHFa0rK",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "gloamspire-wraith-alc",
+    "name": "Gloamspire Wraith",
+    "indexUUID": "xrpx8jypwc",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "disorienting-winds-doa-alter",
+    "name": "Disorienting Winds",
+    "indexUUID": "UfQh069mc3",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "load-soul-alc",
+    "name": "Load Soul",
+    "indexUUID": "8tuhuy4xip",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "mindbreak-bullet-alc",
+    "name": "Mindbreak Bullet",
+    "indexUUID": "9htu9agwj4",
+    "types": [
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "dream-fairy-doa-alter",
+    "name": "Dream Fairy",
+    "indexUUID": "UVAb8CmjtL",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "ensnaring-fumes-doa-alter",
+    "name": "Ensnaring Fumes",
+    "indexUUID": "wPKxvzTmqq",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "relentless-hexchaser-alc",
+    "name": "Relentless Hexchaser",
+    "indexUUID": "por7ch2bbm",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "extortion-scheme-doa-alter",
+    "name": "Extortion Scheme",
+    "indexUUID": "WdkZU2wwnw",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "shadecursed-hunter-alc",
+    "name": "Shadecursed Hunter",
+    "indexUUID": "oqk2c7wklz",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "umbra-sight-alc",
+    "name": "Umbra Sight",
+    "indexUUID": "f15joh300z",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "fairy-whispers-doa-alter",
+    "name": "Fairy Whispers",
+    "indexUUID": "n8wyfG9hbY",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "favorable-winds-doa-alter",
+    "name": "Favorable Winds",
+    "indexUUID": "dsAqxMezGb",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "umbral-tithe-alc",
+    "name": "Umbral Tithe",
+    "indexUUID": "2snsdwmxz1",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "hurricane-sweep-doa-alter",
+    "name": "Hurricane Sweep",
+    "indexUUID": "4V6qKuM7xs",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "violet-haze-alc",
+    "name": "Violet Haze",
+    "indexUUID": "vdxi74wa4x",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "menagerie-beastbonder-doa-alter",
+    "name": "Menagerie Beastbonder",
+    "indexUUID": "izGEjxBPo9",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "phalanx-captain-doa-alter",
+    "name": "Phalanx Captain",
+    "indexUUID": "rPpLwLPGaL",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "poised-strike-doa-alter",
+    "name": "Poised Strike",
+    "indexUUID": "mj3WSrghUH",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "rallied-advance-doa-alter",
+    "name": "Rallied Advance",
+    "indexUUID": "SPESFtKHLw",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "scattering-gusts-doa-alter",
+    "name": "Scattering Gusts",
+    "indexUUID": "jOqyx96kse",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "second-wind-doa-alter",
+    "name": "Second Wind",
+    "indexUUID": "Huh1DljE0j",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "song-of-return-doa-alter",
+    "name": "Song of Return",
+    "indexUUID": "MwXulmKsIg",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "summon-gale-doa-alter",
+    "name": "Summon Gale",
+    "indexUUID": "ZgA7cWNKGy",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "swift-recruit-doa-alter",
+    "name": "Swift Recruit",
+    "indexUUID": "mHd6LLyMyF",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tempest-silverback-doa-alter",
+    "name": "Tempest Silverback",
+    "indexUUID": "HWFWO0TB8l",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "trained-hawk-doa-alter",
+    "name": "Trained Hawk",
+    "indexUUID": "3TfIePpuZO",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "veiling-breeze-doa-alter",
+    "name": "Veiling Breeze",
+    "indexUUID": "KoF3AMSlUe",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "wilderness-harpist-doa-alter",
+    "name": "Wilderness Harpist",
+    "indexUUID": "aKgdkLSBza",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "wind-cutter-doa-alter",
+    "name": "Wind Cutter",
+    "indexUUID": "TgYTZg6TaG",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "windrider-mage-doa-alter",
+    "name": "Windrider Mage",
+    "indexUUID": "ZfCtSldRIy",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "windrider-vanguard-doa-alter",
+    "name": "Windrider Vanguard",
+    "indexUUID": "JEOxGQppTE",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "windstream-mutt-doa-alter",
+    "name": "Windstream Mutt",
+    "indexUUID": "1o0tKizBZ6",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "zephyr-doa-alter",
+    "name": "Zephyr",
+    "indexUUID": "idaRe7y3In",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "zephyr-assistant-doa-alter",
+    "name": "Zephyr Assistant",
+    "indexUUID": "XZFXOE9sEV",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "advent-of-the-stormcaller-doa-alter",
+    "name": "Advent of the Stormcaller",
+    "indexUUID": "ZSSegCjquB",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "arcane-blast-doa-alter",
+    "name": "Arcane Blast",
+    "indexUUID": "pn9gQjV3Rb",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "arcane-disposition-doa-alter",
+    "name": "Arcane Disposition",
+    "indexUUID": "blq7qXGvWH",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "arcane-elemental-doa-alter",
+    "name": "Arcane Elemental",
+    "indexUUID": "wFH1kBLrWh",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "arcane-sight-doa-alter",
+    "name": "Arcane Sight",
+    "indexUUID": "XLrHaYV9VB",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "conduit-of-the-mad-mage-doa-alter",
+    "name": "Conduit of the Mad Mage",
+    "indexUUID": "6SXL09rEzS",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "erratic-bolt-doa-alter",
+    "name": "Erratic Bolt",
+    "indexUUID": "DqtlaMGMvd",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "reckless-conversion-doa-alter",
+    "name": "Reckless Conversion",
+    "indexUUID": "gJ2dsgywEs",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spellshield-arcane-doa-alter",
+    "name": "Spellshield: Arcane",
+    "indexUUID": "RUqtU0Lczf",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "crux-sight-doa-alter",
+    "name": "Crux Sight",
+    "indexUUID": "P9Y1Q5cQ0F",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "ghosts-of-pendragon-doa-alter",
+    "name": "Ghosts of Pendragon",
+    "indexUUID": "SkAe1hsw5H",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "intangible-geist-doa-alter",
+    "name": "Intangible Geist",
+    "indexUUID": "Zu53izIFTX",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "spirit-blade-ascension-doa-alter",
+    "name": "Spirit Blade: Ascension",
+    "indexUUID": "N0ipz8UWwf",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spirit-blade-ensoul-doa-alter",
+    "name": "Spirit Blade: Ensoul",
+    "indexUUID": "CQ1bxUyi0Q",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spirit-blade-ghost-strike-doa-alter",
+    "name": "Spirit Blade: Ghost Strike",
+    "indexUUID": "vcZSHNHvKX",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "spirits-blessing-doa-alter",
+    "name": "Spirit's Blessing",
+    "indexUUID": "qaA3sXFRFY",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "corhazi-infiltrator-doa-alter",
+    "name": "Corhazi Infiltrator",
+    "indexUUID": "VAFTR5taNG",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "corhazi-lightblade-doa-alter",
+    "name": "Corhazi Lightblade",
+    "indexUUID": "2Ch1Gp3jEL",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "excalibur-cleansing-light-doa-alter",
+    "name": "Excalibur, Cleansing Light",
+    "indexUUID": "qtRBz9azeZ",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "gleaming-cut-doa-alter",
+    "name": "Gleaming Cut",
+    "indexUUID": "qufoIF014c",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "lightweavers-assault-doa-alter",
+    "name": "Lightweaver's Assault",
+    "indexUUID": "zxB4tzy9iy",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "luxem-sight-doa-alter",
+    "name": "Luxem Sight",
+    "indexUUID": "uwnHTLG3fL",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "thousand-refractions-doa-alter",
+    "name": "Thousand Refractions",
+    "indexUUID": "XLbCBxla8K",
+    "types": [
+      "ATTACK"
+    ]
+  },
+  {
+    "slug": "triskit-guidance-angel-doa-alter",
+    "name": "Triskit, Guidance Angel",
+    "indexUUID": "ilW4cRlI0C",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "uncover-the-plot-doa-alter",
+    "name": "Uncover the Plot",
+    "indexUUID": "4zkTRt8qXn",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "arima-gaias-wings-doa-alter",
+    "name": "Arima, Gaia's Wings",
+    "indexUUID": "075L8pLihO",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "artificers-opus-doa-alter",
+    "name": "Artificer's Opus",
+    "indexUUID": "G5E0PIUd0W",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "call-the-pack-doa-alter",
+    "name": "Call the Pack",
+    "indexUUID": "mdiK8UC78c",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "command-the-hunt-doa-alter",
+    "name": "Command the Hunt",
+    "indexUUID": "rxxwQT054x",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "gaias-songbird-doa-alter",
+    "name": "Gaia's Songbird",
+    "indexUUID": "sHzSmygjWY",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "hymn-of-gaias-grace-doa-alter",
+    "name": "Hymn of Gaia's Grace",
+    "indexUUID": "okDVkV1l76",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "invoke-dominance-doa-alter",
+    "name": "Invoke Dominance",
+    "indexUUID": "PLljzdiMmq",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "meadowbloom-dryad-doa-alter",
+    "name": "Meadowbloom Dryad",
+    "indexUUID": "cVRIUJdTW5",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "tera-sight-doa-alter",
+    "name": "Tera Sight",
+    "indexUUID": "2Ojrn7buPe",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "vertus-gaias-roar-doa-alter",
+    "name": "Vertus, Gaia's Roar",
+    "indexUUID": "dZ960Hnkzv",
+    "types": [
+      "UNIQUE",
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "bestial-frenzy-doa-alter",
+    "name": "Bestial Frenzy",
+    "indexUUID": "HsaWNAsmAQ",
+    "types": [
+      "ACTION"
+    ]
+  },
+  {
+    "slug": "spark-fairy-doa-alter",
+    "name": "Spark Fairy",
+    "indexUUID": "FWnxKjSeB1",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "frostsworn-paladin-doa-alter",
+    "name": "Frostsworn Paladin",
+    "indexUUID": "rpOaAjgtue",
+    "types": [
+      "ALLY"
+    ]
+  },
+  {
+    "slug": "nullifying-lantern-doa-alter",
+    "name": "Nullifying Lantern",
+    "indexUUID": "urKxcUjz9a",
+    "types": [
+      "REGALIA",
+      "ITEM"
+    ]
+  },
+  {
+    "slug": "young-beastbonder-doa-alter",
+    "name": "Young Beastbonder",
+    "indexUUID": "NwswAHojeq",
+    "types": [
+      "ALLY"
+    ]
+  }
+]

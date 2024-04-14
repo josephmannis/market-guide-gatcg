@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Linux Biolinum';
+  src: url('/src/assets/fonts/linux-biolinum-g.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+html,
+body,
+#root {
+  height: 100%;
+}
