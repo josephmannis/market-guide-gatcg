@@ -1,6 +1,7 @@
 import { ProductGroup } from '../hooks/use-product-groups.tsx';
 import { writeFileSync } from 'node:fs';
 import { PriceRange, ProductT, Rarity } from '../hooks/use-products.tsx';
+import { format } from 'date-fns/format';
 
 const grandArchiveCategoryId = 74;
 
@@ -112,8 +113,11 @@ async function doJob() {
     });
   }
 
+  const lastUpdate = format(new Date(), 'M/d/yyyy @ h:m a');
+
   writeFileSync('./src/data/product-groups.json', JSON.stringify(productGroups));
   writeFileSync('./src/data/group-card-map.json', JSON.stringify(productCardMap));
+  writeFileSync('./src/data/update-log.json', JSON.stringify({ lastUpdate }));
 }
 
 doJob();
