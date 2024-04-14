@@ -2,7 +2,7 @@
 
 cd /Users/prince/Documents/dev/presentable-projects/market-guide/src/data-scraping/ || exit
 
-tsx ./src/data-scraping/get-full-card-index.ts
+tsx ./get-full-card-index.ts
 
 cd ../../
 
