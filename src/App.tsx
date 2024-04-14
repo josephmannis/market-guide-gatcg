@@ -5,7 +5,7 @@ import { Products } from './pages/products.tsx';
 function App() {
   return (
     <ChakraProvider theme={theme}>
-      <VStack maxWidth="100%" justifyItems="center" padding={{ base: 6, md: 8 }}>
+      <VStack width="100%" justifyItems="center">
         <Products />
       </VStack>
     </ChakraProvider>

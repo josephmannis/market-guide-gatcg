@@ -6,12 +6,13 @@ export function Card({ card }: { card: CardT }) {
   return (
     <VStack>
       <Box
-        w="200px"
-        h="280px"
+        w={{ base: '300px', md: '200px' }}
+        h={{ base: '420px', md: '280px' }}
         backgroundImage={card.imageUrl}
         backgroundSize="contain"
-        borderRadius="xl"
+        borderRadius={{ base: '2xl', md: 'xl' }}
         backgroundColor="gray"
+        mb={{ base: 4, md: 0 }}
       >
         <span role="img" aria-label={card.name} />
       </Box>

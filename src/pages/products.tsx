@@ -28,7 +28,7 @@ export function Products() {
   const { cards, box, pack, totalCards } = useProducts({ setId: selectedGroup, filter });
 
   return (
-    <VStack width={{ base: '100%', md: '80%' }} alignItems="flex-start">
+    <VStack width={{ base: '100%', md: '80%' }} alignItems="flex-start" p={8}>
       <Heading size="lg">Market Guide</Heading>
       <Text>
         Prices should update daily. Prices are TCGPlayer Market Price, or TCGPlayer Mid. Data lovingly sourced from{' '}
@@ -42,7 +42,7 @@ export function Products() {
       <Flex w="100%" alignItems="flex-start" gap={2} flexDirection={{ base: 'column-reverse', md: 'row' }}>
         <VStack alignItems="flex-start">
           <Heading size="sm">{totalCards} cards</Heading>
-          <Grid templateColumns={{ md: 'repeat(4, 1fr)', base: 'repeat(2, 1fr)' }} gap={{ base: 2, md: 6 }} w="100%">
+          <Grid templateColumns={{ md: 'repeat(4, 1fr)', base: 'repeat(1, 1fr)' }} gap={{ base: 2, md: 6 }} w="100%">
             {cards.map((c) => {
               return (
                 <GridItem key={c.name}>
@@ -53,7 +53,7 @@ export function Products() {
           </Grid>
         </VStack>
 
-        <VStack w={{ base: '100%', md: '30%' }} alignItems="flex-start" position="sticky">
+        <VStack w={{ base: '100%', md: '300px' }} alignItems="flex-start">
           <Heading size="sm">Product</Heading>
           <Select value={selectedGroup} mb={3} onChange={(e) => setSelected(e.target.value)}>
             {groups.map((g) => (
