@@ -60,7 +60,11 @@ export function useProducts({ setId, filter }: { setId?: string; filter?: string
   const packs: BoxT[] = allProducts.filter((p) => isPack(p.name));
 
   const search = new FuzzySearch(cards, ['name']);
-  let currentCards = cards.sort((a, b) => (b.normalPrices.midPrice ?? 0) - (a.normalPrices.midPrice ?? 0));
+  let currentCards = cards.sort(
+    (a, b) =>
+      (b.normalPrices.marketPrice ?? b.normalPrices.midPrice ?? 0) -
+      (a.normalPrices.marketPrice ?? a.normalPrices.midPrice ?? 0)
+  );
 
   if (filter) {
     currentCards = search.search(filter);
