@@ -5,7 +5,7 @@ import { formatUsd } from '../utils/currency.ts';
 export function Card({ card }: { card: CardT }) {
   return (
     <VStack>
-      <a href={card.url} target="_blank">
+      <a href={card.tcgPlayerUrl} target="_blank">
         <Box
           w={{ base: '300px', md: '200px' }}
           h={{ base: '420px', md: '280px' }}
