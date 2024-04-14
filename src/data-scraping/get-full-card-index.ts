@@ -120,14 +120,4 @@ async function doJob() {
   writeFileSync('./src/data/update-log.json', JSON.stringify({ lastUpdate }));
 }
 
-// doJob();
-
-async function ok() {
-  await new Promise<void>((resolve) => {
-    setTimeout(() => {
-      resolve();
-    }, 3000);
-  });
-}
-
-ok();
+doJob();
