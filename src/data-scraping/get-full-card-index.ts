@@ -115,9 +115,9 @@ async function doJob() {
 
   const lastUpdate = format(new Date(), 'M/d/yyyy @ h:m a');
 
-  writeFileSync('./src/data/product-groups.json', JSON.stringify(productGroups));
-  writeFileSync('./src/data/group-card-map.json', JSON.stringify(productCardMap));
-  writeFileSync('./src/data/update-log.json', JSON.stringify({ lastUpdate }));
+  writeFileSync('../data/product-groups.json', JSON.stringify(productGroups));
+  writeFileSync('../data/group-card-map.json', JSON.stringify(productCardMap));
+  writeFileSync('../data/update-log.json', JSON.stringify({ lastUpdate }));
 }
 
 doJob();
