@@ -42,7 +42,11 @@ export function Products() {
       <Flex w="100%" alignItems="flex-start" gap={2} flexDirection={{ base: 'column-reverse', md: 'row' }}>
         <VStack alignItems="flex-start">
           <Heading size="sm">{totalCards} cards</Heading>
-          <Grid templateColumns={{ md: 'repeat(4, 1fr)', base: 'repeat(1, 1fr)' }} gap={{ base: 2, md: 6 }} w="100%">
+          <Grid
+            templateColumns={{ md: 'repeat(4, 1fr)', base: 'repeat(1, 1fr)' }}
+            gap={{ base: 2, md: 6 }}
+            w={!cards.length ? { base: `${300 * 4}px`, md: `${200 * 4}px` } : '100%'}
+          >
             {cards.map((c) => {
               return (
                 <GridItem key={c.name}>
