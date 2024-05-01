@@ -43,6 +43,7 @@ type ProductApiData = {
       releasedOn: string; // '2023-04-28T00:00:00';
       note: string | null; // null;
     };
+    cost_reserve: number | null;
     // Find stuff like Rarity in here
     extendedData: {
       name: string;
@@ -88,6 +89,7 @@ async function getCardsForGroup(groupId: string): Promise<ProductT[]> {
       imageUrl: result.imageUrl,
       slug: '',
       tcgPlayerUrl: result.url,
+      isMaterial: result.cost_reserve !== null,
     };
   });
 }
