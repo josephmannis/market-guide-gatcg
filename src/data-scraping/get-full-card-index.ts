@@ -80,7 +80,6 @@ async function getCardsForGroup(groupId: string): Promise<ProductT[]> {
     const foilPrices: PriceRange =
       prices.results.find((p) => p.productId === result.productId && p.subTypeName === 'Foil') ?? {};
 
-    console.log(result);
     return {
       groupId,
       normalPrices,
@@ -90,7 +89,7 @@ async function getCardsForGroup(groupId: string): Promise<ProductT[]> {
       imageUrl: result.imageUrl,
       slug: '',
       tcgPlayerUrl: result.url,
-      isMaterial: result.cost_reserve !== null,
+      isMaterial: !!result.extendedData.find((v) => v.name === 'MemoryCost'),
     };
   });
 }
