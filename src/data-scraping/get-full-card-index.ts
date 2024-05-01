@@ -80,6 +80,7 @@ async function getCardsForGroup(groupId: string): Promise<ProductT[]> {
     const foilPrices: PriceRange =
       prices.results.find((p) => p.productId === result.productId && p.subTypeName === 'Foil') ?? {};
 
+    console.log(result.cost_reserve);
     return {
       groupId,
       normalPrices,
