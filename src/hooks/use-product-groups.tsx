@@ -8,7 +8,7 @@ export type ProductGroup = {
 
 export function useProductGroups() {
   function isExcluded(g: ProductGroup): boolean {
-    const excludedNames = ['Re:Collection', 'Mercurial Heart'];
+    const excludedNames = [];
 
     return excludedNames.some((n) => g.name.includes(n));
   }
