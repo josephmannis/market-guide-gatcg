@@ -9,7 +9,7 @@ const groupUrl = `https://tcgcsv.com/${grandArchiveCategoryId}/groups`;
 const productPricesUrl = (groupId: string) => `https://tcgcsv.com/${grandArchiveCategoryId}/${groupId}/prices`;
 const productInfoUrl = (groupId: string) => `https://tcgcsv.com/${grandArchiveCategoryId}/${groupId}/products`;
 
-type GroupApiData = {
+export type GroupApiData = {
   totalItems: number;
   success: boolean;
   errors: string[];
@@ -24,7 +24,7 @@ type GroupApiData = {
 };
 
 // In this context, it's usually a card
-type ProductApiData = {
+export type ProductApiData = {
   totalItems: number;
   success: boolean;
   errors: string[];
@@ -43,7 +43,7 @@ type ProductApiData = {
       releasedOn: string; // '2023-04-28T00:00:00';
       note: string | null; // null;
     };
-    cost_reserve: number | null;
+    isMaterial: boolean;
     // Find stuff like Rarity in here
     extendedData: {
       name: string;
