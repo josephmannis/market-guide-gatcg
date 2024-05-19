@@ -62,6 +62,7 @@ function getFoilsInOrder() {
   let foilCards: { name: string; price: number }[] = [];
 
   for (const groupId of groups) {
+    // @ts-expect-error Yup
     const cards = cardGroupMap[groupId];
     foilCards = foilCards.concat(
       cards
