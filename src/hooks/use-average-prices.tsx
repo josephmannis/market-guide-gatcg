@@ -21,7 +21,7 @@ export function useAveragePrices(cards: CardT[]): AveragePrice {
     if (card.rarity?.includes('Collector')) {
       priceSet = card.foilPrices;
     }
-    return priceSet.marketPrice ?? priceSet.midPrice ?? 0;
+    return priceSet.midPrice ?? priceSet.marketPrice ?? 0;
   }
 
   function getAveragePrice(rarity: Rarity): string {

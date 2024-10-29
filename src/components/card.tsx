@@ -23,7 +23,7 @@ export function Card({ card }: { card: CardT }) {
         {card.name}
       </Text>
       <HStack>
-        <Tag>Normal: {formatUsd(card.normalPrices.marketPrice ?? card.normalPrices.midPrice ?? 0)}</Tag>
+        <Tag>Normal: {formatUsd(card.normalPrices.midPrice ?? card.normalPrices.midPrice ?? 0)}</Tag>
         <Tag>Foil: {formatUsd(card.foilPrices.marketPrice ?? card.foilPrices.midPrice ?? 0)}</Tag>
       </HStack>
     </VStack>
